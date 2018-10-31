@@ -21,7 +21,10 @@ client.get('search', {
   //  zoekterm
   //
   q: 'nederlandse wetenschappers in het buitenland',
-  sort: 'title'
+  sort: 'title',
+  page: '1',
+  facet: 'type(book)',
+  refine: true
 })
 .then(function(results) {
   const boeken = [];
