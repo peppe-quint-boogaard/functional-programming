@@ -1,10 +1,13 @@
 const OBA = require('oba-api');
+require('dotenv').config();
 
+let public_key = process.env.DB_PUBLIC;
+let secret_key = process.env.DB_SECRET;
 // Setup authentication to api server
 const client = new OBA({
   // ProQuest API Keys
-  public: '1e19898c87464e239192c8bfe422f280',
-  secret: '4289fec4e962a33118340c888699438d'
+  public: 'public_key',
+  secret: 'secret_key'
 });
 
 client.get('search', {
@@ -17,15 +20,23 @@ client.get('search', {
 .then(function(results) {
   let resList = [];
   JSON.parse(results).aquabrowser.results.result.forEach(function(book) {
-    var bookList = {
+    let bookRes = {
       Title : book.titles.title.$t,
       Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
       Year : book.publication.year.$t,
-      Language : (typeof book.languages === "undefined") ? "Language unknown" : book.languages.language.$t,
-      Id : book.id
+      Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
+      Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t
     }
-    // console.log(book); // Fallback results
-    resList.push([bookList]);
+    // Fallback result
+    // console.log(book);
+
+    // Cut off part after number and paste 'pages'
+    let pagesString = bookRes['Pages'];
+    let indexPageString = pagesString.split(/[p: ]/)[0].replace(/[\[\]']+/g, '').concat(' pages');
+    // console.log(indexPageString);
+    // return indexPageString
+
+    resList.push([bookRes]);
   })
   console.log(resList);
 })
