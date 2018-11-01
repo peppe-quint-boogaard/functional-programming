@@ -7,13 +7,6 @@ const client = new OBA({
   secret: '4289fec4e962a33118340c888699438d'
 });
 
-function getKeys(data){
-	console.table(data)
-	let keys = Object.keys(data[0])
-	console.log("Keys: ", keys)
-	return keys
-}
-
 client.get('search', {
   q: 'oorlog',
   sort: 'relevance',
@@ -22,7 +15,6 @@ client.get('search', {
   refine: true
 })
 .then(function(results) {
-  let keys = getKeys(results);
   let resList = [];
   JSON.parse(results).aquabrowser.results.result.forEach(function(book) {
     var bookList = {
