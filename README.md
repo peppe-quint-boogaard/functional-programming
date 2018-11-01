@@ -34,9 +34,9 @@ Hierdoor zie ik welke data er beschikbaar is. Op basis hiervan heb ik een aantal
 #### Onderzoeksvragen
 1. Is er een verband tussen het aantal bladzijde van een boek en het jaartal dat het is gepubliceerd?
 2. Zijn er meer boeken uit Duitsland gepubliceerd tijdens de 2de wereldoorlog?
-3. -
-4. -
-5. -
+3. Is er een verband met de dikte van een boek en de taal?
+4. Zijn er meer boeken gepubliceerd over de 1ste of 2de wereldoorlog?
+5. Zijn de mannelijke schrijvers die dikkere boeken maken, of zijn dat de vrouwelijke schrijvers?
 
 ### 31 oktober 2018
 Uitgezocht welke code er nodig is om er voor te zorgen dat de bijv. de titel van een boek alleen getoond wordt.
