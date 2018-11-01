@@ -7,37 +7,34 @@ const client = new OBA({
   secret: '4289fec4e962a33118340c888699438d'
 });
 
-function checkValue(author) {
-  console.log(author);
-  if (typeof author === "undefined") {
-    // console.log('Het is undefined');
-    return 'Author unknown';
-  } else {
-    // console.log('Het loopt goed');
-    return author;
-  }
+function getKeys(data){
+	console.table(data)
+	let keys = Object.keys(data[0])
+	console.log("Keys: ", keys)
+	return keys
 }
 
 client.get('search', {
-  q: 'oorlog in het buitenland',
+  q: 'oorlog',
   sort: 'relevance',
   page: '9',
   facet: 'type(book)',
   refine: true
 })
 .then(function(results) {
-  const resList = [];
+  let keys = getKeys(results);
+  let resList = [];
   JSON.parse(results).aquabrowser.results.result.forEach(function(book) {
     var bookList = {
       Title : book.titles.title.$t,
+      Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
       Year : book.publication.year.$t,
-      Author : checkValue(book.authors.author.$t·)
-      // Language : book.languages.language
+      Language : (typeof book.languages === "undefined") ? "Language unknown" : book.languages.language.$t,
+      Id : book.id
     }
     // console.log(book); // Fallback results
     resList.push([bookList]);
   })
   console.log(resList);
-  checkValue();
 })
 .catch(err => console.log(err)) // Something went wrong in the request to the API
