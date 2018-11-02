@@ -45,7 +45,7 @@ client.get('search', {
     bookRes.Title = indexTitleString;
 
     resList.push(bookRes);
-  })
+  }
   // get years of publication of the founded books
   var resListYears = resList.map( years => years.Year );
   // console.log(resListYears);
