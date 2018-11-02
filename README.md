@@ -99,3 +99,13 @@ De oplossing om er voor te zorgen dat de nieuwe waarde wat in ``Pages`` is vrij 
 ``` javascript
   bookRes.Pages = indexPageString;
 ```
+
+Net zoals het weergeven van de pagina's, heb ik met het volgende stuk code er voor gezorgd dat de titel netjes wordt weergegeven:
+``` javascript
+  // Title: Cut off part after /
+  let titleString = bookRes.Title;
+  let indexTitleString = titleString.split('/')[0].trim();
+  // console.log(indexTitleString);
+  // return indexTitleString
+  bookRes.Title = indexTitleString;
+```
