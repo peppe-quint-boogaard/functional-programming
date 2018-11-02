@@ -25,7 +25,8 @@ client.get('search', {
       Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
       Year : book.publication.year.$t,
       Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
-      Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t
+      Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t,
+      Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" : book.publication.publishers.publisher.place
     }
     // fallback result
     // console.log(book);
@@ -45,16 +46,17 @@ client.get('search', {
     bookRes.Title = indexTitleString;
 
     resList.push(bookRes);
-  }
+  })
   // get years of publication of the founded books
   var resListYears = resList.map( years => years.Year );
   // console.log(resListYears);
 
   // get language of the founded books
-  var resListLang = resList.map( lang => lang.Language );
+  // var resListLang = resList.map( lang => lang.Language );
   // console.log(resListLang);
 
-  console.log(resListYears + resListLang);
-  // console.log(resList);
+  // console.log(resListYears + resListLang);
+
+  console.log(resList);
 })
 .catch(err => console.log(err)) // something went wrong in the request to the API
