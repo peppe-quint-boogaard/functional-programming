@@ -45,6 +45,13 @@ client.get('search', {
     // return indexTitleString
     bookRes.Title = indexTitleString;
 
+    //location: clean up name of the location
+    let locationString = bookRes.Location;
+    let indexLocationString = locationString.replace(/[\[\]']+/g, '');
+    // console.log(indexLocationString);
+    // return indexLocationString
+    bookRes.Location = indexLocationString;
+
     resList.push(bookRes);
   })
   // get years of publication of the founded books
