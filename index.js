@@ -6,8 +6,8 @@ let secret_key = process.env.DB_SECRET;
 // Setup authentication to api server
 const client = new OBA({
   // ProQuest API Keys
-  public: 'public_key',
-  secret: 'secret_key'
+  public: public_key,
+  secret: secret_key
 });
 
 client.get('search', {
@@ -30,13 +30,21 @@ client.get('search', {
     // Fallback result
     // console.log(book);
 
-    // Cut off part after number and paste 'pages'
-    let pagesString = bookRes['Pages'];
+    // Pages: Cut off part after number and paste 'pages'
+    let pagesString = bookRes.Pages;
     let indexPageString = pagesString.split(/[p: ]/)[0].replace(/[\[\]']+/g, '').concat(' pages');
     // console.log(indexPageString);
     // return indexPageString
+    bookRes.Pages = indexPageString;
 
-    resList.push([bookRes]);
+    // Title: Cut off part after /
+    let titleString = bookRes.Title;
+    let indexTitleString = titleString.split('/')[0].trim();
+    // console.log(indexTitleString);
+    // return indexTitleString
+    bookRes.Title = indexTitleString;
+
+    resList.push(bookRes);
   })
   console.log(resList);
 })

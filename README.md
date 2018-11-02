@@ -93,3 +93,9 @@ Het enige wat ik wil laten zien is het aantal paginanummers. Daarom moet alles n
 ```
 
 Het lukt me nog niet de nieuwe waarde terug te geven aan het resultaat van het boek.
+
+### 2 november 2018
+De oplossing om er voor te zorgen dat de nieuwe waarde wat in ``Pages`` is vrij simpel. Het volgende stukje code heb ik toegevoegd om er voor te zorgen dat het werkt:
+``` javascript
+  bookRes.Pages = indexPageString;
+```
