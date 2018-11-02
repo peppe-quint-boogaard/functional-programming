@@ -3,17 +3,17 @@ require('dotenv').config();
 
 let public_key = process.env.DB_PUBLIC;
 let secret_key = process.env.DB_SECRET;
-// Setup authentication to api server
+// setup authentication to api server
 const client = new OBA({
-  // ProQuest API Keys
+  // proQuest API Keys
   public: public_key,
   secret: secret_key
 });
 
 client.get('search', {
-  q: 'oorlog',
-  sort: 'relevance',
-  page: '9',
+  q: 'language:ger',
+  sort: 'title',
+  page: '1',
   facet: 'type(book)',
   refine: true
 })
@@ -27,17 +27,17 @@ client.get('search', {
       Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
       Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t
     }
-    // Fallback result
+    // fallback result
     // console.log(book);
 
-    // Pages: Cut off part after number and paste 'pages'
+    // pages: cut off part after number and paste 'pages'
     let pagesString = bookRes.Pages;
     let indexPageString = pagesString.split(/[p: ]/)[0].replace(/[\[\]']+/g, '').concat(' pages');
     // console.log(indexPageString);
     // return indexPageString
     bookRes.Pages = indexPageString;
 
-    // Title: Cut off part after /
+    // title: cut off part after /
     let titleString = bookRes.Title;
     let indexTitleString = titleString.split('/')[0].trim();
     // console.log(indexTitleString);
@@ -46,6 +46,15 @@ client.get('search', {
 
     resList.push(bookRes);
   })
-  console.log(resList);
+  // get years of publication of the founded books
+  var resListYears = resList.map( years => years.Year );
+  // console.log(resListYears);
+
+  // get language of the founded books
+  var resListLang = resList.map( lang => lang.Language );
+  // console.log(resListLang);
+
+  console.log(resListYears + resListLang);
+  // console.log(resList);
 })
-.catch(err => console.log(err)) // Something went wrong in the request to the API
+.catch(err => console.log(err)) // something went wrong in the request to the API
