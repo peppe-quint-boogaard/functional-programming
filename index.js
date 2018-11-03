@@ -74,6 +74,17 @@ function receiveResult(pageNumber) { //with some help of Joost
 
 // with some help of Joost
 Promise.all(responses).then(function(totalRes) {
-  console.log(resList);
   // sort results on the location of the publishers
+  function sortLocation(a, b) {
+    if (a.Location < b.Location)
+      return -1;
+    if (a.Location > b.Location)
+      return 1;
+    return 0;
+  }
+
+  resList.sort(sortLocation);
+
+  console.log(resList);
+  console.log(resList.length); // total amount results
 })
