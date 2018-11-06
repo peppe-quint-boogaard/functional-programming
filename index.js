@@ -1,8 +1,9 @@
 const OBA = require('oba-api');
 require('dotenv').config();
 
-let public_key = process.env.DB_PUBLIC;
-let secret_key = process.env.DB_SECRET;
+
+const public_key = process.env.DB_PUBLIC;
+const secret_key = process.env.DB_SECRET;
 // setup authentication to api server
 const client = new OBA({
   // proQuest API Keys
@@ -14,7 +15,7 @@ const resList = [];
 responses = [];
 
 // indicate amount of pages to request
-var amountPages = 5;
+const amountPages = 6;
 for (var i = 1; i < amountPages; i++) {
   receiveResult(i);
 }
@@ -22,7 +23,7 @@ for (var i = 1; i < amountPages; i++) {
 function receiveResult(pageNumber) { //with some help of Joost
   responses.push(
     client.get('search', {
-      q: 'language:ger',
+      q: 'year:2016 muziek',
       sort: 'title',
       page: pageNumber,
       facet: 'type(book)',
@@ -34,7 +35,7 @@ function receiveResult(pageNumber) { //with some help of Joost
           Title : book.titles.title.$t,
           Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
           Year : book.publication.year.$t,
-          Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
+          Language : (typeof book.languages === "undefined" || typeof book.languages.language) ? "Unknown" : book.languages.language.$t,
           Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t,
           Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" : book.publication.publishers.publisher.place
         }
