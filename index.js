@@ -1,4 +1,5 @@
 const OBA = require('oba-api');
+const fs = require('fs');
 require('dotenv').config();
 
 
@@ -76,15 +77,10 @@ function receiveResult(pageNumber) { //with some help of Joost
 // with some help of Joost
 Promise.all(responses).then(function(totalRes) {
   // sort results on the location of the publishers
-  // function sortLocation(a, b) {
-  //   if (a.Location < b.Location)
-  //     return -1;
-  //   if (a.Location > b.Location)
-  //     return 1;
-  //   return 0;
-  // }
-
   resList.sort((a, b) => (a.Location < b.Location ? -1 : a.Location > b.Location ? 1 : 0));
+
+  let data = JSON.stringify(resList, null, 2);
+  fs.writeFileSync('oba-data.json', data);
 
   console.log(resList);
   console.log(resList.length); // total amount results
