@@ -16,7 +16,7 @@ const resList = [];
 responses = [];
 
 // indicate amount of pages to request
-const amountPages = 6;
+const amountPages = 11;
 for (var i = 1; i < amountPages; i++) {
   receiveResult(i);
 }
@@ -24,7 +24,7 @@ for (var i = 1; i < amountPages; i++) {
 function receiveResult(pageNumber) { //with some help of Joost
   responses.push(
     client.get('search', {
-      q: 'year:2016 muziek',
+      q: 'language:ger',
       sort: 'title',
       page: pageNumber,
       facet: 'type(book)',
@@ -36,7 +36,7 @@ function receiveResult(pageNumber) { //with some help of Joost
           Title : book.titles.title.$t,
           Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
           Year : book.publication.year.$t,
-          Language : (typeof book.languages === "undefined" || typeof book.languages.language) ? "Unknown" : book.languages.language.$t,
+          Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
           Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t,
           Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" : book.publication.publishers.publisher.place
         }
@@ -50,25 +50,21 @@ function receiveResult(pageNumber) { //with some help of Joost
 
         // title: cut off part after /
         let titleString = bookRes.Title;
-        let indexTitleString = titleString.split('/')[0].trim();
+        let indexTitleString = titleString.split('/')[0].replace(/[\[\]']+/g, '').trim();
         bookRes.Title = indexTitleString;
 
-        //location: clean up name of the location
+        // location: clean up name of the location
         let locationString = bookRes.Location;
         let indexLocationString = locationString.replace(/[\[\]']+/g, '');
         bookRes.Location = indexLocationString;
 
+        // language: change value of string to correct languages
+        let languageString = bookRes.Language;
+        let indexLanguageString = languageString.replace('ger', 'German');
+        bookRes.Language = indexLanguageString;
+
         resList.push(bookRes);
       })
-      // get years of publication of the founded books
-      // var resListYears = resList.map( years => years.Year );
-      // console.log(resListYears);
-
-      // get language of the founded books
-      // var resListLang = resList.map( lang => lang.Language );
-      // console.log(resListLang);
-
-      // console.log(resListYears + resListLang);
     })
     .catch(err => console.log(err)) // something went wrong in the request to the API
   )
@@ -77,10 +73,11 @@ function receiveResult(pageNumber) { //with some help of Joost
 // with some help of Joost
 Promise.all(responses).then(function(totalRes) {
   // sort results on the location of the publishers
-  resList.sort((a, b) => (a.Location < b.Location ? -1 : a.Location > b.Location ? 1 : 0));
+  resList.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
 
+  // https://stackabuse.com/reading-and-writing-json-files-with-node-js/
   let data = JSON.stringify(resList, null, 2);
-  fs.writeFileSync('oba-data.json', data);
+  fs.writeFileSync('oba-data.json', data, 'utf8');
 
   console.log(resList);
   console.log(resList.length); // total amount results
