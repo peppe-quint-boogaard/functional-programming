@@ -1,14 +1,16 @@
 # Openbare Bibliotheek Amsterdam API
 
 ## Table Of Contents
-1. [**Onderzoek**](#onderzoek)
-  1. Onderzoeksvragen
-  2. Hoofdvraag
-  3. Deelvragen
-2. [**Hypothese**](#hypothese)
-  1. Schetsen hypothese
-3. [**Code**](#code)
-4. [**Proces**](#proces)
+1. **Onderzoek**
+  1.1 Onderzoeksvragen
+  1.2 Hoofdvraag
+  1.3 Deelvragen
+2. **Hypothese**
+  2.1 Schetsen hypothese
+3. **Code**
+  3.1 Hoofdvraag
+  3.2 Deelvragen
+4. **Proces**
 
 ### 1 | Onderzoek
 #### 1.1 | Onderzoeksvragen
