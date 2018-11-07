@@ -24,7 +24,7 @@ for (var i = 1; i < amountPages; i++) {
 function receiveResult(pageNumber) { //with some help of Joost
   responses.push(
     client.get('search', {
-      q: 'language:ger year:1940',
+      q: 'language:ger',
       sort: 'title',
       page: pageNumber,
       facet: 'type(book)',
@@ -36,7 +36,7 @@ function receiveResult(pageNumber) { //with some help of Joost
           Id: parseInt(book.id.nativeid),
           Title : book.titles.title.$t,
           Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
-          Year : book.publication.year.$t,
+          Year : (typeof book.publication.year === "undefined") ? "Unknown" : book.publication.year.$t,
           Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
           Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t,
           Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" : book.publication.publishers.publisher.place
@@ -80,7 +80,6 @@ function removeDuplicates(originalArray, prop) {
   for (var i in originalArray) {
     lookupObject[originalArray[i][prop]] = originalArray[i];
   }
-
   for (i in lookupObject) {
     newArray.push(lookupObject[i]);
   }
