@@ -24,7 +24,7 @@ for (var i = 1; i < amountPages; i++) {
 function receiveResult(pageNumber) { //with some help of Joost
   responses.push(
     client.get('search', {
-      q: 'language:ger year:1945',
+      q: 'language:ger year:1940',
       sort: 'title',
       page: pageNumber,
       facet: 'type(book)',
@@ -72,12 +72,13 @@ function receiveResult(pageNumber) { //with some help of Joost
 }
 
 // remove duplicate id's
-function removeDuplicates(originalResults, prop) {
+// https://stackoverflow.com/questions/2218999/remove-duplicates-from-an-array-of-objects-in-javascript/
+function removeDuplicates(originalArray, prop) {
   let newArray = [];
   let lookupObject = {};
 
-  for (var i in originalResults) {
-    lookupObject[originalResults[i][prop]] = originalResults[i];
+  for (var i in originalArray) {
+    lookupObject[originalArray[i][prop]] = originalArray[i];
   }
 
   for (i in lookupObject) {
@@ -88,8 +89,8 @@ function removeDuplicates(originalResults, prop) {
 
 // with some help of Joost
 Promise.all(responses).then(function(totalRes) {
-  var uniqueResults = removeDuplicates(resList, 'id');
-  
+  var uniqueResults = removeDuplicates(resList, "Id");
+
   // sort results on the location of the publishers
   uniqueResults.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
 

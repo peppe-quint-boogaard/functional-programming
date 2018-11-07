@@ -1,11 +1,389 @@
 [
   {
-    "Id": 629195,
-    "Title": "Pablo Casals",
-    "Author": "von Tobel, Rudolf",
-    "Year": "1945",
+    "Id": 277852,
+    "Title": "Das Drechslerwerk : ein Fachbuch für Drechsler, Lehrer und Architekten : auch ein Beitrag zur Stilgeschichte des Hausrats",
+    "Author": "Spannagel, Fritz",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "140 pages",
-    "Location": "Erlenbach-Zürich"
+    "Pages": "320 pages",
+    "Location": "Ravensburg"
+  },
+  {
+    "Id": 18802,
+    "Title": "Die drei Reiche : (San Kwo Tschi) : Roman aus dem alten China",
+    "Author": "Franz Kuhn",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "546 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 67335,
+    "Title": "Zeitung und Linotype : ein historisch-technologischer Beitrag zur Entwicklung des modernen Zeitungswesens",
+    "Author": "Eule, Wilhelm",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "55 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 71888,
+    "Title": "Kleiner Mann, grosser Mann - alles vertauscht, oder Max Schreyvogels Last und Lust des Geldes : ein heiterer Roman",
+    "Author": "Fallada, Hans",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "411 pages",
+    "Location": "Stuttgart etc."
+  },
+  {
+    "Id": 93236,
+    "Title": "Blätter aus dem Brotsack : geschrieben im Grenzdienst 1939",
+    "Author": "Frisch, Max",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "99 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 101465,
+    "Title": "John Coleridge Patteson : der Missionsbischof von Melanesien",
+    "Author": "Gareis, Reinhold",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "16 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 114167,
+    "Title": "So treibt das Reich Sozialpolitik",
+    "Author": "Oskar Karstedt",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "154 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 124791,
+    "Title": "Aus dem Lande des Halbmonds für die Jugend",
+    "Author": "Götte, Lina",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "86 pages",
+    "Location": "Wiesbaden"
+  },
+  {
+    "Id": 151113,
+    "Title": "Zwölf schwedische Erzähler von heute",
+    "Author": "Olle Holmberg",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "339 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 155112,
+    "Title": "Die Symphonien Anton Bruckners : dem Andenken an Karl Muck gewidmet",
+    "Author": "Abendroth, Walter",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "159 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 178922,
+    "Title": "Assol",
+    "Author": "Helmich, H.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "16 pages",
+    "Location": "Geen plaats van uitgave"
+  },
+  {
+    "Id": 187660,
+    "Title": "Im Kampf mit dem Elefanten",
+    "Author": "Autenrieth, F.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "14 pages",
+    "Location": "Basel etc."
+  },
+  {
+    "Id": 195194,
+    "Title": "Hans Pfitzners \"Armer Heinrich\" in seiner Stellung zur Musik des ausgehenden 19. Jahrhunderts",
+    "Author": "Hirtler, Franz",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "143 pages",
+    "Location": "Würzburg"
+  },
+  {
+    "Id": 196972,
+    "Title": "Feste und Bräuche des Schweizervolkes",
+    "Author": "Hoffmann-Krayer, Eduard",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "VI, pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 198390,
+    "Title": "Das Stift St. Florian und Anton Bruckner : Bilder zur deutschen Kultur- und Kunstgeschichte",
+    "Author": "Hollsteiner, Johannes",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "55 pages",
+    "Location": "Leizig"
+  },
+  {
+    "Id": 215272,
+    "Title": "Der magische Kreis : Erzählungen",
+    "Author": "Beheim-Schwarzbach, Martin",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "338 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 219562,
+    "Title": "Das Gold",
+    "Author": "Berg, Georg",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "248 pages",
+    "Location": "Stuttgart"
+  },
+  {
+    "Id": 220115,
+    "Title": "Jonna Und Johannes : der Roman einer Liebe",
+    "Author": "Berglar-Schröer, Paul",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "337 pages",
+    "Location": "Salzburg"
+  },
+  {
+    "Id": 240164,
+    "Title": "Barbara und die Männer : Roman",
+    "Author": "Jacobsen, Jorgen-Frantz",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "312 pages",
+    "Location": "Stuttgart etc."
+  },
+  {
+    "Id": 243223,
+    "Title": "Die assoziative Harmonik in den Klavier-Werken Claude Debussys",
+    "Author": "Jakobik, Albert",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "86 pages",
+    "Location": "Würzburg-Aumühle"
+  },
+  {
+    "Id": 264110,
+    "Title": "Die sanfte Gewalt : Roman",
+    "Author": "Brehm, Bruno",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "422 pages",
+    "Location": "München"
+  },
+  {
+    "Id": 30498,
+    "Title": "Karl von Dittersdorfs Lebensbeschreibung : seinem Sohne in die Feder diktiert",
+    "Author": "von Dittersdorf, Karl Ditters",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "XIV, pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 295285,
+    "Title": "Lexikon der Juden in der Musik : mit einem Titelverzeichnis jüdischer Werke",
+    "Author": "Stengel, Theo",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "394 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 298220,
+    "Title": "Aus dem Leben einer Arbeiterfrau : Frau Hanna Hauft, genannt \"Tante Hanna\" ausgew. aus dem Lebensbild \"Tante Hanna\"",
+    "Author": "Busch, Wilhelm",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "32 pages",
+    "Location": "Elberfeld"
+  },
+  {
+    "Id": 306464,
+    "Title": "Unsterblicher Walzer : die Geschichte des deutschen Nationaltanzes",
+    "Author": "Klingenbeck, Fritz",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "106, pages",
+    "Location": "Wien"
+  },
+  {
+    "Id": 326568,
+    "Title": "Tanzschrift",
+    "Author": "Korty, Sonia",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "39 pages",
+    "Location": "Mainz"
+  },
+  {
+    "Id": 338822,
+    "Title": "Musikerbrevier : nachdenkliches und ergötzliches aus dem Reich der Musik",
+    "Author": "Tenschert, Roland",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "311 pages",
+    "Location": "Wien"
+  },
+  {
+    "Id": 345506,
+    "Title": "Zuhause : neue Gedichte",
+    "Author": "Claudius, Hermann",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "172 pages",
+    "Location": "München"
+  },
+  {
+    "Id": 351129,
+    "Title": "La Botella und andere seltsame Geschichten",
+    "Author": "Kusenberg, Kurt",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "151 pages",
+    "Location": "Hamburg"
+  },
+  {
+    "Id": 364652,
+    "Title": "Götter Griechenlands : Meisterwerke antiker Münzkunst",
+    "Author": "Lange, Kurt",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "127 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 365991,
+    "Title": "Ein General kommt aus dem Dschungel",
+    "Author": "Traven, B.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "415 pages",
+    "Location": "Amsterdam"
+  },
+  {
+    "Id": 372494,
+    "Title": "Der erste Tag : Erzählung",
+    "Author": "Tumler, Franz",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "97 pages",
+    "Location": "München"
+  },
+  {
+    "Id": 427618,
+    "Title": "Das Phänomen der Technik : Zeugnisse, Deutung und Wirklichkeit",
+    "Author": "Diesel, Eugen",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "259 pages",
+    "Location": "Unknown"
+  },
+  {
+    "Id": 448592,
+    "Title": "Tobias : Roman",
+    "Author": "Walter, Friedrich",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "300 pages",
+    "Location": "Amsterdam"
+  },
+  {
+    "Id": 478833,
+    "Title": "Ostland : Gedichte",
+    "Author": "Miegel, Agnes",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "49 pages",
+    "Location": "Jena"
+  },
+  {
+    "Id": 545598,
+    "Title": "Der Leviathan",
+    "Author": "Roth, Joseph",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "71 pages",
+    "Location": "Amsterdam"
+  },
+  {
+    "Id": 550304,
+    "Title": "Unser Freund Peregrin : Aufzeichnungen des Jürgen Brook : eine Erzählung",
+    "Author": "Seidel, Ina",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "190 pages",
+    "Location": "Stuttgart etc."
+  },
+  {
+    "Id": 554966,
+    "Title": "Über musikalische Inspiration",
+    "Author": "Pfitzner, Hans",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "94 pages",
+    "Location": "Berlin-Grunewald"
+  },
+  {
+    "Id": 572066,
+    "Title": "Die Mehrstimmigkeit der Ars antiqua in Theorie und Praxis",
+    "Author": "Sasse, Götz Dietrich",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "146 pages",
+    "Location": "Borna-Leipzig"
+  },
+  {
+    "Id": 581422,
+    "Title": "Die Geschichte der christlichen Kunst in China",
+    "Author": "Schüller, Sepp",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "XI, pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 724944,
+    "Title": "Unser Freund Peregrin : Aufzeichnungen des Jürgen Brook : eine Erzählung",
+    "Author": "Seidel, I.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "191 pages",
+    "Location": "Stuttgart"
+  },
+  {
+    "Id": 751759,
+    "Title": "Leonardo da Vinci : Gemälde, Zeichnungen, Studien",
+    "Author": "Nicodemi, G.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "xlvii, pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 952372,
+    "Title": "Die niederländischen Maler des 17. Jahrhundert",
+    "Author": "Jannasch, Adolph",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "337 pages",
+    "Location": "Berlin"
   }
 ]
