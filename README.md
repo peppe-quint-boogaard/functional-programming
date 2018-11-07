@@ -2,28 +2,28 @@
 
 ## Table Of Contents
 1. **Onderzoek**
-  1.1 Onderzoeksvragen
-  1.2 Hoofdvraag
-  1.3 Deelvragen
+  * Onderzoeksvragen
+  * Hoofdvraag
+  * Deelvragen
 2. **Hypothese**
-  2.1 Schetsen hypothese
+  * Schetsen hypothese
 3. **Code**
-  3.1 Hoofdvraag
-  3.2 Deelvragen
+  * Hoofdvraag
+  * Deelvragen
 4. **Proces**
 
 ### 1 | Onderzoek
-#### 1.1 | Onderzoeksvragen
+#### | Onderzoeksvragen
 * Is er een verband tussen het aantal bladzijdes van een boek en het jaar van publicatie?
 * Is er een verband tussen aantal bladzijdes van een boek en de locatie van publicatie?
 * Is er een verband tussen Duitse boeken en het jaartal van publiceren?
 * Zijn het mannelijke of vrouwelijke schrijvers die dikkere boeken maken?
 * Groeit het aantal boeken naar mate de tijd verstrijkt?
 
-#### 1.2 | Hoofdvraag
+#### | Hoofdvraag
 Is er een verband tussen Duitse boeken en het jaartal van publiceren?
 
-#### 1.3 | Deelvragen
+#### | Deelvragen
 * Zijn er rond de 2de wereldoorlog meer of minder Duitse boeken gepubliceerd?
 * Is er een verandering van de locatie van publicatie tijdens de 2de wereldoorlog?
 
@@ -32,7 +32,7 @@ Is er een verband tussen Duitse boeken en het jaartal van publiceren?
 
 > **H1** Er is een verschil in de hoeveelheid publicaties gedurende voor de 2de wereldoorlog en tijdens de 2de wereldoorlog.
 
-#### 2.1 | Schetsen hypothese
+#### | Schetsen hypothese
 ![](assets/readme-sketch-1.jpg)
 
 ![](assets/readme-sketch-2.jpg)
@@ -67,7 +67,7 @@ In deze functie is het mogelijk om verschillende soorten code te schrijven om sp
   Id: parseInt(book.id.nativeid),
 ```
 
-#### 3.1 | Hoofdvraag
+#### | Hoofdvraag
 Om de hoofdvraag te beantwoorden heb ik de volgende stukken code gebruikt om de juiste data te krijgen.
 ``` javascript
   Year : book.publication.year.$t, // haalt het jaar van publicatie op
@@ -92,7 +92,7 @@ Wanneer ik ``node index.js`` in de terminal doe, krijg ik de volgende data terug
 
 Helaas is het probleem dat ik te veel request moet plegen om een goed resultaat te krijgen. Ik ben nog niet achter dit probleem gekomen om zonder foutmeldingen alle resultaten te krijgen.
 
-#### 3.2 | Deelvragen
+#### | Deelvragen
 Om de deelvraag te beantwoorden over de locatie van de publicatie van het boek heb ik de volgende regel toegevoegd aan mijn code.
 ``` javascript
   Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" :
