@@ -16,7 +16,7 @@ const resList = [];
 responses = [];
 
 // indicate amount of pages to request
-const amountPages = 11;
+const amountPages = 21;
 for (var i = 1; i < amountPages; i++) {
   receiveResult(i);
 }
@@ -24,7 +24,7 @@ for (var i = 1; i < amountPages; i++) {
 function receiveResult(pageNumber) { //with some help of Joost
   responses.push(
     client.get('search', {
-      q: 'language:ger',
+      q: 'language:ger year:1945',
       sort: 'title',
       page: pageNumber,
       facet: 'type(book)',
@@ -33,6 +33,7 @@ function receiveResult(pageNumber) { //with some help of Joost
     .then(function(results) {
       JSON.parse(results).aquabrowser.results.result.forEach(function(book) {
         let bookRes = {
+          Id: parseInt(book.id.nativeid),
           Title : book.titles.title.$t,
           Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
           Year : book.publication.year.$t,
@@ -70,15 +71,32 @@ function receiveResult(pageNumber) { //with some help of Joost
   )
 }
 
+// remove duplicate id's
+function removeDuplicates(originalResults, prop) {
+  let newArray = [];
+  let lookupObject = {};
+
+  for (var i in originalResults) {
+    lookupObject[originalResults[i][prop]] = originalResults[i];
+  }
+
+  for (i in lookupObject) {
+    newArray.push(lookupObject[i]);
+  }
+  return newArray;
+}
+
 // with some help of Joost
 Promise.all(responses).then(function(totalRes) {
+  var uniqueResults = removeDuplicates(resList, 'id');
+  
   // sort results on the location of the publishers
-  resList.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
+  uniqueResults.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
 
   // https://stackabuse.com/reading-and-writing-json-files-with-node-js/
-  let data = JSON.stringify(resList, null, 2);
+  let data = JSON.stringify(uniqueResults, null, 2);
   fs.writeFileSync('oba-data.json', data, 'utf8');
 
-  console.log(resList);
-  console.log(resList.length); // total amount results
+  console.log(uniqueResults);
+  console.log(uniqueResults.length); // total amount results
 })
