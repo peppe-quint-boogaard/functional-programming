@@ -16,7 +16,7 @@ const resList = [];
 responses = [];
 
 // indicate amount of pages to request
-const amountPages = 11;
+const amountPages = 6;
 for (var i = 1; i < amountPages; i++) {
   // if (i < 5) {
   //   year = 1940;
@@ -129,30 +129,39 @@ Promise.all(responses).then(function(totalRes) {
   uniqueResults.forEach(function(uniqueYear) {
     if (uniqueYear.Year === '1940') {
       firstYear.push(uniqueYear);
-      console.log(firstYear.length);
     } else if (uniqueYear.Year === '1941') {
       secondYear.push(uniqueYear);
-      console.log(secondYear.length);
     } else if (uniqueYear.Year === '1942') {
       thirdYear.push(uniqueYear);
-      console.log(thirdYear.length);
     } else if (uniqueYear.Year === '1943') {
       fourthYear.push(uniqueYear);
-      console.log(fourthYear.length);
     } else if (uniqueYear.Year === '1944') {
       fifthYear.push(uniqueYear);
-      console.log(fifthYear.length);
     } else if (uniqueYear.Year === '1945') {
-      sixthYear.push("Aantal boeken :" + uniqueYear);
-      console.log(sixthYear.length);
+      sixthYear.push(uniqueYear);
     }
   });
+
+  // number of books per year
+  console.log(firstYear.length);
+  console.log(secondYear.length);
+  console.log(thirdYear.length);
+  console.log(fourthYear.length);
+  console.log(fifthYear.length);
+  console.log(sixthYear.length);
 
   // https://stackabuse.com/reading-and-writing-json-files-with-node-js/
   let data = JSON.stringify(uniqueResults, null, 2);
   fs.writeFileSync('oba-data.json', data, 'utf8');
 
-  let years = JSON.stringify([firstYear.length, secondYear.length, thirdYear.length, fourthYear.length, fifthYear.length, sixthYear.length], null, 2);
+  let years = JSON.stringify([
+    { Jaar : 1940, Aantal : firstYear.length },
+    { Jaar : 1941, Aantal : secondYear.length },
+    { Jaar : 1942, Aantal : thirdYear.length },
+    { Jaar : 1943, Aantal : fourthYear.length },
+    { Jaar : 1944, Aantal: fifthYear.length },
+    { Jaar : 1945, Aantal : sixthYear.length }
+  ], null, 2);
   fs.writeFileSync('years-data.json', years, 'utf8');
   //console.log(uniqueResults);
   // console.log(uniqueResults.length); // total amount results
