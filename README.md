@@ -4,7 +4,7 @@
 1. **[Onderzoek](#1--onderzoek)**
 2. **[Hypothese](#2--hypothese)**
 3. **[Code](#3--code)**
-4. **[Proces](#4--resultaat)**
+4. **[Resultaat](#4--resultaat)**
 
 ___
 
