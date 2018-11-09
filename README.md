@@ -1,10 +1,10 @@
 # Openbare Bibliotheek Amsterdam API
 
 ## Inhoudsopgave
-1. [**Onderzoek**](#1 | Onderzoek)
-2. [**Hypothese**](#2 | Hypothese)
-3. [**Code**](# 3 | Code)
-4. [**Proces**](#4 | Resultaat)
+1. **[Onderzoek](#onderzoek)**
+2. **[Hypothese](#hypothese)**
+3. **[Code](#code)**
+4. **[Proces](#resultaat)**
 
 ___
 
@@ -91,7 +91,7 @@ Helaas is het probleem dat ik te veel request moet plegen om een goed resultaat 
 #### Deelvragen
 Om de deelvraag te beantwoorden over de locatie van de publicatie van het boek heb ik de volgende regel toegevoegd aan mijn code.
 ``` javascript
-  Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" :
+  Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" : book.publication.publishers.publisher.place,
 ```
 Deze value had hetzelfde probleem wat ik had met de taal. De locatie was af en toe niet beschikbaar waardoor het vast liep.
 
