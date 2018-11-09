@@ -1,16 +1,10 @@
 # Openbare Bibliotheek Amsterdam API
 
 ## Inhoudsopgave
-1. **Onderzoek**
-  * Onderzoeksvragen
-  * Hoofdvraag
-  * Deelvragen
-2. **Hypothese**
-  * Schetsen hypothese
-3. **Code**
-  * Hoofdvraag
-  * Deelvragen
-4. **Proces**
+1. [**Onderzoek**](#1 | Onderzoek)
+2. [**Hypothese**](#2 | Hypothese)
+3. [**Code**](# 3 | Code)
+4. [**Proces**](#4 | Resultaat)
 
 ___
 
@@ -23,7 +17,7 @@ ___
 * Groeit het aantal boeken naar mate de tijd verstrijkt?
 
 #### Hoofdvraag
-Is er een verband tussen Duitse boeken en het jaartal van publiceren?
+_**Is er een verband tussen Duitse boeken en het jaartal van publiceren?**_
 
 #### Deelvragen
 * Zijn er rond de 2de wereldoorlog meer of minder Duitse boeken gepubliceerd?
