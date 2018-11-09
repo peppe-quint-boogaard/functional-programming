@@ -118,39 +118,35 @@ Promise.all(responses).then(function(totalRes) {
   uniqueResults.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
 
   // array different years
-  let totalYears = [
-    firstYear = [], // 1940
-    secondYear = [], // 1941
-    thirdYear = [], // 1942
-    fourthYear = [], // 1943
-    fifthYear = [], // 1944
-    sixthYear = [] // 1945
-  ]
+  let firstYear = []; // 1940
+  let secondYear = []; // 1941
+  let thirdYear = []; // 1942
+  let fourthYear = []; // 1943
+  let fifthYear = []; // 1944
+  let sixthYear = []; // 1945
 
   // get books from years
   uniqueResults.forEach(function(uniqueYear) {
     if (uniqueYear.Year === '1940') {
       firstYear.push(uniqueYear);
+      console.log(firstYear.length);
     } else if (uniqueYear.Year === '1941') {
       secondYear.push(uniqueYear);
+      console.log(secondYear.length);
     } else if (uniqueYear.Year === '1942') {
       thirdYear.push(uniqueYear);
+      console.log(thirdYear.length);
     } else if (uniqueYear.Year === '1943') {
       fourthYear.push(uniqueYear);
+      console.log(fourthYear.length);
     } else if (uniqueYear.Year === '1944') {
       fifthYear.push(uniqueYear);
+      console.log(fifthYear.length);
     } else if (uniqueYear.Year === '1945') {
-      sixthYear.push(uniqueYear);
+      sixthYear.push("Aantal boeken :" + uniqueYear);
+      console.log(sixthYear.length);
     }
   });
-
-  // number of books per year
-  console.log(firstYear.length);
-  console.log(secondYear.length);
-  console.log(thirdYear.length);
-  console.log(fourthYear.length);
-  console.log(fifthYear.length);
-  console.log(sixthYear.length);
 
   // https://stackabuse.com/reading-and-writing-json-files-with-node-js/
   let data = JSON.stringify(uniqueResults, null, 2);
