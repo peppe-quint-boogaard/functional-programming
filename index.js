@@ -118,12 +118,14 @@ Promise.all(responses).then(function(totalRes) {
   uniqueResults.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
 
   // array different years
-  let firstYear = []; // 1940
-  let secondYear = []; // 1941
-  let thirdYear = []; // 1942
-  let fourthYear = []; // 1943
-  let fifthYear = []; // 1944
-  let sixthYear = []; // 1945
+  let totalYears = [
+    firstYear = [], // 1940
+    secondYear = [], // 1941
+    thirdYear = [], // 1942
+    fourthYear = [], // 1943
+    fifthYear = [], // 1944
+    sixthYear = [] // 1945
+  ]
 
   // get books from years
   uniqueResults.forEach(function(uniqueYear) {
@@ -154,6 +156,8 @@ Promise.all(responses).then(function(totalRes) {
   let data = JSON.stringify(uniqueResults, null, 2);
   fs.writeFileSync('oba-data.json', data, 'utf8');
 
+  let years = JSON.stringify([firstYear.length, secondYear.length, thirdYear.length, fourthYear.length, fifthYear.length, sixthYear.length], null, 2);
+  fs.writeFileSync('years-data.json', years, 'utf8');
   //console.log(uniqueResults);
   // console.log(uniqueResults.length); // total amount results
 })
