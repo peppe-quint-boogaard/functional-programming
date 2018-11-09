@@ -1,2648 +1,1352 @@
 [
   {
-    "Id": 512398,
-    "Title": "Aesthetische Forschungen : Adolf Zeisinger",
-    "Author": "Zeisinger, Adolf",
-    "Year": "1855",
-    "Language": "German",
-    "Pages": "568 pages",
-    "Location": "Frankfurt a. M."
-  },
-  {
-    "Id": 238056,
-    "Title": "Spitzen",
-    "Author": "Bollarth, Franz",
-    "Year": "1878",
-    "Language": "German",
-    "Pages": "39 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 5927,
-    "Title": "Abbildungen von Mustereinbänden aus der Blüthezeit der Buchbinderkunst",
-    "Author": "J. Stockbauer",
-    "Year": "1881",
-    "Language": "German",
-    "Pages": "13 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 328113,
-    "Title": "Abriss der Musikgeschichte",
-    "Author": "Kothe, Bernhard",
-    "Year": "1881",
-    "Language": "German",
-    "Pages": "218, pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 312426,
-    "Title": "Abriss der Deutschen Literaturgeschichte : ein Hilfsbuch für Schule und Haus",
-    "Author": "Koenig, Robert",
+    "Id": 475893,
+    "Title": "Jahrbuch der Musikbibliothek Peters für ...",
+    "Author": "Unknown",
     "Year": "1895",
     "Language": "German",
-    "Pages": "IX, pages",
-    "Location": "Bielefeld etc."
-  },
-  {
-    "Id": 682763,
-    "Title": "Vindex : sozial-juristische Studien über mannmänliche Geschlechtsliebe",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "51 pages",
+    "Pages": "27 pages",
     "Location": "Leipzig"
   },
   {
-    "Id": 682756,
-    "Title": "Formatrix : anthropologische Studien über urnische Liebe",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "91 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682755,
-    "Title": "Argonauticus : Zastrow und die Urninge des pietistischen, ultramontanen und freidenkenden Lagers : mit Erörterungen über Blutgier und Zurechnungsfähigkeit, kleinen Mitteilungen aus der Urninsgwelt und den Kriminalfällen: Bischoff Morell von Edinburg, Graf Czarnecky in Posen, Superintendent Forstner zu Wien",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "116 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682760,
-    "Title": "Kritische Pfeile : Denkschrift über die Bestrafung der Urningsliebe : an die Gesetzgeber",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "122 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682758,
-    "Title": "Inclusa : anthropologische Studien über mannmänliche Liebe : naturwissenschaftlicher Teil",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "92 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682757,
-    "Title": "Gladius furens : das Naturrätsel der Urningsliebe und der Irrtum als Gesetzgeber : eine Provokation an den deutschen Juristentag",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "52 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682761,
-    "Title": "Memnon : die Geschlechtsnatur des mannliebenden Urnings : eine naturwissenschaftliche Darstellung : körperlich-seelischer Hermaphroditismus",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "218 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682754,
-    "Title": "Araxes : Ruf nach Befreiung der Urningsnatur vom Strafgesetz : an die Reichsversammlungen Norddeutschlands und Oesterreichs",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "47 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682764,
-    "Title": "Vindicta : Kampf für Freiheit von Verfolgung : Kriminalistische Aussführungen und legislatorische Vorschläge, Forderung einer Revision der bestehenden Kriminalgesetze, Urnische Tageschronik",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "59 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682753,
-    "Title": "Ara spei : moralphilosophische und sozialphilosophische Studien über urnische Liebe",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "123 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682759,
-    "Title": "Incubus : Urningsliebe und Blutgier : eine Erörterung über krankhafte Gemütsaffektion und Zurechnungsfähigkeit, veranlasst durch den Berliner Kriminalfall v. Zastrow : mit 15 Fällen verwandter Natur",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "72 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 682762,
-    "Title": "Prometheus : Beiträge zur Erforschung des Naturrätsels des Uranismus und zur Erörterung des sittlichen und gesellschaftlichen Interessen des Urningtums",
-    "Author": "Ulrichs, C.",
-    "Year": "1898",
-    "Language": "German",
-    "Pages": "92 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 397904,
-    "Title": "Adjutantenritte und andere Gedichte",
-    "Author": "von Liliencron, Detlev",
-    "Year": "18XX",
-    "Language": "German",
-    "Pages": "159 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 42375,
-    "Title": "Italienische Kunst",
-    "Author": "Author unknown",
-    "Year": "1900",
-    "Language": "German",
-    "Pages": "51 pages",
-    "Location": "Geen plaats van uitgave"
-  },
-  {
-    "Id": 563521,
-    "Title": "Afrika",
-    "Author": "Sievers, W.",
-    "Year": "1901",
-    "Language": "German",
-    "Pages": "XII, pages",
-    "Location": "Leipzig etc."
-  },
-  {
-    "Id": 459989,
-    "Title": "Adolph von Menzel",
-    "Author": "Meissner, F.H.",
-    "Year": "1902",
-    "Language": "German",
-    "Pages": "92 pages",
-    "Location": "Berlin etc."
-  },
-  {
-    "Id": 32005,
-    "Title": "ABC : ein Bilderbuch züm lesen lernen",
-    "Author": "Doering, Lia",
-    "Year": "191",
-    "Language": "German",
-    "Pages": "17 pages",
-    "Location": "Mainz"
-  },
-  {
-    "Id": 721242,
-    "Title": "\"Richtet nicht, auf daß Ihr nicht gerichtet werdet!\" : Bilder aus dem Leben : Roman",
-    "Author": "Kuhners, Ernst A.",
-    "Year": "1910",
-    "Language": "German",
-    "Pages": "46 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 751952,
-    "Title": "14 Jahre Jesuit : persönliches und grundsätzliches",
-    "Author": "von Hoensbroech, P.",
-    "Year": "1912",
-    "Language": "German",
-    "Pages": "viii, pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 680743,
-    "Title": "Paragraph 175 des Reichsstrafgesetzbuches : juristische Abhandlung über die homosexuelle Frage",
-    "Author": "Been, H.",
-    "Year": "1912",
-    "Language": "German",
-    "Pages": "75 pages",
-    "Location": "Straßburg etc."
-  },
-  {
-    "Id": 721399,
-    "Title": "Gedichte",
-    "Author": "Li-Tai-Pe",
-    "Year": "1915",
-    "Language": "German",
-    "Pages": "48 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 518615,
-    "Title": "Abriss der Musikgeschichte",
-    "Author": "Riemann, Hugo",
-    "Year": "1918",
-    "Language": "German",
-    "Pages": "2 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 680557,
-    "Title": "Abhandlungen aus dem Gebiete der Sexualforschung",
-    "Author": "Author unknown",
-    "Year": "1918",
-    "Language": "German",
-    "Pages": "2 pages",
-    "Location": "Bonn"
-  },
-  {
-    "Id": 308835,
-    "Title": "Advent : ein Mysterium",
-    "Author": "Strindberg, August",
-    "Year": "1919",
-    "Language": "German",
-    "Pages": "103 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 518126,
-    "Title": "Abigaïl und Nabal : Tragödie in drei Akten",
-    "Author": "Zweig, Arnold",
-    "Year": "1920",
-    "Language": "German",
-    "Pages": "101 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 231830,
-    "Title": "Adam Elsheimer, der römische Maler deutscher Nation",
-    "Author": "von Bode, Wilhelm",
-    "Year": "1920",
-    "Language": "German",
-    "Pages": "87 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 684025,
-    "Title": "Paragraph 175 : die Schmach des Jahrhunderts",
-    "Author": "Hiller, K.",
-    "Year": "1922",
-    "Language": "German",
-    "Pages": "132 pages",
-    "Location": "Hannover"
-  },
-  {
-    "Id": 173730,
-    "Title": "Abenteuer in Tibet",
-    "Author": "Hedin, Sven",
-    "Year": "1923",
-    "Language": "German",
-    "Pages": "II, pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 726176,
-    "Title": "Advent : Roman einer Erwartung",
-    "Author": "Hadina, E.",
-    "Year": "1923",
-    "Language": "German",
-    "Pages": "264 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 119306,
-    "Title": "Abende auf dem Vorwerke bei Dikanka",
-    "Author": "Gogol', N.V.",
+    "Id": 75328,
+    "Title": "Neues Beethoven-Jahrbuch",
+    "Author": "Unknown",
     "Year": "1924",
     "Language": "German",
-    "Pages": "279 pages",
-    "Location": "Potsdam"
+    "Pages": "23 pages",
+    "Location": "Augsburg"
   },
   {
-    "Id": 1193,
-    "Title": "50 Jahre J. Pohlig : 25 Jahre J. Pohlig Aktiengesellschaft",
-    "Author": "Author unknown",
-    "Year": "1925",
+    "Id": 572932,
+    "Title": "Volk auf dem Wege : Roman der deutschen Unruhe",
+    "Author": "Ponten, Servatius Josef",
+    "Year": "1933",
     "Language": "German",
-    "Pages": "262 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 328106,
-    "Title": "25 Jahre Entwicklung Siemens-Schuckertwerke : 1903-1928",
-    "Author": "Köttgen, Carl",
-    "Year": "1928",
-    "Language": "German",
-    "Pages": "41 pages",
-    "Location": "Geen plaats van uitgave"
-  },
-  {
-    "Id": 542429,
-    "Title": "\"Teekanne\", Tee-Ein-und-Ausfuhr-Grosspackerei, Dresden",
-    "Author": "Schmitt, Julius",
-    "Year": "1930",
-    "Language": "German",
-    "Pages": "86 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 1195,
-    "Title": "50 Jahre Linotype : Werden und Wachsen einer weltumspannenden Erfindung",
-    "Author": "Author unknown",
-    "Year": "1934",
-    "Language": "German",
-    "Pages": "X, pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 682480,
-    "Title": "50 Jahre Kampf für Volkssittlichkeit und Volkskraft : die Geschichte des Westdeutschen Sittlichkeitsvereins von seinen Anfängen bis heute (1885-1835)",
-    "Author": "Sellmann, Adolf",
-    "Year": "1935",
-    "Language": "German",
-    "Pages": "16 pages",
-    "Location": "Schwelm in Westfalen"
-  },
-  {
-    "Id": 751985,
-    "Title": "Adolf Hitler : das Zeitalter der Verantwortungslosigkeit : eine Biographie",
-    "Author": "Heiden, K.",
-    "Year": "1936",
-    "Language": "German",
-    "Pages": "447 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 269814,
-    "Title": "Abenteuer in Japan : roman",
-    "Author": "Brod, Max",
-    "Year": "1938",
-    "Language": "German",
-    "Pages": "233 pages",
-    "Location": "Amsterdam"
-  },
-  {
-    "Id": 118216,
-    "Title": "Adolf Hitler : eine Biographie",
-    "Author": "Goerlitz, Walter",
-    "Year": "1952",
-    "Language": "German",
-    "Pages": "656 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 359,
-    "Title": "1100 Jahre Essen und sein Wirtschaftsraum : Wirtschaft, Industrie, Produktion = Production and industrial capacity = Production et capacité industrielle",
-    "Author": "Author unknown",
-    "Year": "1952",
-    "Language": "German",
-    "Pages": ".. pages",
-    "Location": "Essen"
-  },
-  {
-    "Id": 362,
-    "Title": "125 Jahre Gürzenichchor Köln : Chronik der Jahre 1927-1952 zum 125 jährigen Jubiläum des Gürzenichchores und der Kölner Concertgesellschaft",
-    "Author": "Heinrich Lemacher",
-    "Year": "1953",
-    "Language": "German",
-    "Pages": "172 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 243097,
-    "Title": "13 nicht geheure Geschichten",
-    "Author": "Jahnn, Hans Henny",
-    "Year": "1954",
-    "Language": "German",
-    "Pages": "148 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 721037,
-    "Title": "13 nicht geheure Geschichten",
-    "Author": "Jahnn, Hans Henny",
-    "Year": "1954",
-    "Language": "German",
-    "Pages": "148 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 63998,
-    "Title": "ABC der Improvisation : mit Aufgaben zum Singen und Spielen, neuer Weg der Musikerziehung",
-    "Author": "Epping, Anna",
-    "Year": "1954",
-    "Language": "German",
-    "Pages": "192 pages",
-    "Location": "Berlin etc."
-  },
-  {
-    "Id": 351083,
-    "Title": "Ägypten im Bild",
-    "Author": "Kusch, Eugen",
-    "Year": "1955",
-    "Language": "German",
-    "Pages": "39 pages",
-    "Location": "Nürnberg"
-  },
-  {
-    "Id": 303121,
-    "Title": "150 Jahre Weltgeschichte für die Dame : nach zeitgenössischen Berichten und Vorlagen",
-    "Author": "Klepper, Erhard",
-    "Year": "1955",
-    "Language": "German",
-    "Pages": "223 pages",
-    "Location": "Berlin etc."
-  },
-  {
-    "Id": 575440,
-    "Title": "40 Schweizer Komponisten der Gegenwart",
-    "Author": "Author unknown",
-    "Year": "1956",
-    "Language": "German",
-    "Pages": "236 pages",
-    "Location": "Amriswil"
-  },
-  {
-    "Id": 595280,
-    "Title": "110. niederrheinisches Musikfest in Düsseldorf : Jahrbuch 1956",
-    "Author": "Julius Alf",
-    "Year": "1956",
-    "Language": "German",
-    "Pages": "154 pages",
-    "Location": "Düsseldorf"
-  },
-  {
-    "Id": 252272,
-    "Title": "110 Jahre Carl Zeiss Jena : Tradition und Fortschritt des Jenaer Zeiss Geräteschaffens : Bericht aus dem VEB Carl Zeiss - Jena",
-    "Author": "Jobst, Rudolf",
-    "Year": "1956",
-    "Language": "German",
-    "Pages": "66 pages",
-    "Location": "Jena"
-  },
-  {
-    "Id": 335445,
-    "Title": "ABC der christlichen Seefahrt : kurioses Lexikon für Freunde der Häfen der Schiffe und der See",
-    "Author": "Tegtmeier, Konrad",
-    "Year": "1958",
-    "Language": "German",
-    "Pages": "114 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 453559,
-    "Title": "\" Abermals vom Freischützen\" der Münchener \"Freischütze\" von 1812 : eine \"romantische Tragödie\" des Münchener Dichters Frz. Xav. v. Caspar mit Musik von Hofmusiker Carl Borr. Neuner : die wirkliche Quelle des Weber-Kindschen Opernbuches : eine musik- und literarhistorische Studie zur Textgeschichte des Weberschen \"Freischütz\"",
-    "Author": "Mayerhofer, Gottfried",
-    "Year": "1959",
-    "Language": "German",
-    "Pages": "46 pages",
-    "Location": "Regensburg"
-  },
-  {
-    "Id": 144669,
-    "Title": "Abenteuer mit Schnabbelchen : allen kleinen und grossen Kindern",
-    "Author": "ter Haar, Jaap",
-    "Year": "1959",
-    "Language": "German",
-    "Pages": "78 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 194504,
-    "Title": "Afrikanische Masken : ein Brevier",
-    "Author": "Himmelheber, Hans",
-    "Year": "1960",
-    "Language": "German",
-    "Pages": "46 pages",
-    "Location": "Braunschweig"
-  },
-  {
-    "Id": 793,
-    "Title": "20. Juli 1944",
-    "Author": "Hans Royce",
-    "Year": "1960",
-    "Language": "German",
-    "Pages": "291, pages",
-    "Location": "Bonn"
-  },
-  {
-    "Id": 191145,
-    "Title": "Ägypten",
-    "Author": "Hickmann, Hans",
-    "Year": "1961",
-    "Language": "German",
-    "Pages": "185 pages",
-    "Location": "Leipzig"
-  },
-  {
-    "Id": 510344,
-    "Title": "Ägyptische Wirkereien",
-    "Author": "Zaloscer, Hilde",
-    "Year": "1962",
-    "Language": "German",
-    "Pages": "48 pages",
-    "Location": "Bern etc."
-  },
-  {
-    "Id": 3094,
-    "Title": "Ägypten",
-    "Author": "Hed Wimmer",
-    "Year": "1963",
-    "Language": "German",
-    "Pages": "31 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 455801,
-    "Title": "150 Jahre \"Kinder- und Hausmärchen\" der Brüder Grimm : Bibliographie und Materialien zu einer Ausstellung der Deutschen Staatsbibliothek",
-    "Author": "Heinz Wegehaupt",
-    "Year": "1964",
-    "Language": "German",
-    "Pages": "111 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 372579,
-    "Title": "400 Jahre Kunst, Kultur und Geschichte im Prado",
-    "Author": "Tüngel, Richard",
-    "Year": "1964",
-    "Language": "German",
-    "Pages": "239 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 3668,
-    "Title": "Ad lectores",
-    "Author": "Author unknown",
-    "Year": "1965",
-    "Language": "German",
-    "Pages": "ill pages",
-    "Location": "Neuwied etc."
-  },
-  {
-    "Id": 106902,
-    "Title": "Abriss der Mensuralnotation des XIV. und der ersten Hälfte des XV. Jahrhunderts",
-    "Author": "Gennrich, Friedrich",
-    "Year": "1965",
-    "Language": "German",
-    "Pages": "69 pages",
-    "Location": "Langen bei Frankfurt"
-  },
-  {
-    "Id": 554573,
-    "Title": "Adolph Friedrich Hesse als Orgelvirtuose und Orgelkomponist",
-    "Author": "Seyfried, Hans Jürgen",
-    "Year": "1965",
-    "Language": "German",
-    "Pages": "118 pages",
-    "Location": "Regensburg"
-  },
-  {
-    "Id": 1056483,
-    "Title": "Abenteuer der Interpretation",
-    "Author": "Demus, Jörg",
-    "Year": "1967",
-    "Language": "German",
-    "Pages": "248 pages",
-    "Location": "Wiesbaden"
-  },
-  {
-    "Id": 155033,
-    "Title": "5000 Jahre Zeitmessung : dargestellt im Wuppertaler Uhrenmuseum an der Privatsammlung der Uhrmacher- und Goldschmiedefamilie Abeler",
-    "Author": "Abeler, Jürgen",
-    "Year": "1968",
-    "Language": "German",
-    "Pages": "64 pages",
-    "Location": "Wuppertal"
-  },
-  {
-    "Id": 474080,
-    "Title": "50 Jahre Göttinger Händel-Festspiele : Festschrift",
-    "Author": "Walter Meyerhoff",
-    "Year": "1970",
-    "Language": "German",
-    "Pages": "208 pages",
-    "Location": "Kassel etc."
-  },
-  {
-    "Id": 343214,
-    "Title": "Ägyptische Kleinkunst : vollständiger Katalog",
-    "Author": "Krug, Antje",
-    "Year": "1971",
-    "Language": "German",
-    "Pages": "39 pages",
-    "Location": "Kassel"
-  },
-  {
-    "Id": 472405,
-    "Title": "Was die Schönheit sei, das weiss ich nicht : Künstler, Theorie, Werk : Katalog zur zweiten Biennale Nürnberg 1971",
-    "Author": "Janni Müller-Hauck",
-    "Year": "1971",
-    "Language": "German",
-    "Pages": "352 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 371674,
-    "Title": "1472-1553: Lucas Cranach d. Ä. : das gesamte graphische Werk : mit Exempeln aus dem graphischen Werk Lucas Cranach d. J. und der Cranachwerkstatt",
-    "Author": "der Ältere Cranach, Lucas",
-    "Year": "1972",
-    "Language": "German",
-    "Pages": "800 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 198009,
-    "Title": "Abkürzungen auf Münzen : Deutung und Erläuterung",
-    "Author": "Holtz, Walter",
-    "Year": "1972",
-    "Language": "German",
-    "Pages": "120 pages",
-    "Location": "Braunschweig"
-  },
-  {
-    "Id": 209927,
-    "Title": "Abriss der Stimmphysiologie : mit Vorschlägen für die Stimmbildung",
-    "Author": "Baum, Günther",
-    "Year": "1972",
-    "Language": "German",
-    "Pages": "71 pages",
-    "Location": "Mainz etc."
-  },
-  {
-    "Id": 418944,
-    "Title": "Malen, zeichnen, gestalten",
-    "Author": "Lüdtke, Fritz",
-    "Year": "1973",
-    "Language": "German",
-    "Pages": "285 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 682988,
-    "Title": "Ein Zeichen für HAW",
-    "Author": "Author unknown",
-    "Year": "1973",
-    "Language": "German",
-    "Pages": "25 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 184040,
-    "Title": "Adrian Willaert in der weltlichen Vokalmusik seiner Zeit : ein Beitrag zur Entwicklungsgeschichte der niederländisch-französischen und italienischen Liedformen in der ersten Hälfte des 16. Jahrhunderts",
-    "Author": "Hertzmann, Erich",
-    "Year": "1973",
-    "Language": "German",
-    "Pages": "viii, pages",
-    "Location": "Geen plaats van uitgave"
-  },
-  {
-    "Id": 386939,
-    "Title": "Adami",
-    "Author": "Damisch, Hubert",
-    "Year": "1974",
-    "Language": "German",
-    "Pages": "196 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 681046,
-    "Title": "Ich selbst bin Homosexueller",
-    "Author": "Dalstra, K.",
-    "Year": "1974",
-    "Language": "German",
-    "Pages": "160 pages",
-    "Location": "Geen plaats van uitgave"
-  },
-  {
-    "Id": 172936,
-    "Title": "33 Fotomontagen",
-    "Author": "Heartfield, John",
-    "Year": "1974",
-    "Language": "German",
-    "Pages": "3 pages",
-    "Location": "Dresden"
-  },
-  {
-    "Id": 285542,
-    "Title": "Abbé Maximilian Stadler : seine Materialien zur Geschichte der Musik unter den österreichischen Regenten : ein  Beitrag zum musikalischen Historismus im vormärzlichen Wien",
-    "Author": "Stadler, Maximilian",
-    "Year": "1974",
-    "Language": "German",
-    "Pages": "XXXVI, pages",
-    "Location": "Kassel etc."
-  },
-  {
-    "Id": 445656,
-    "Title": "13 unerwünschte Reportagen : + aktueller Anhang : Verbotene Aufrüstung : Giftgas für die Bundeswehr",
-    "Author": "Wallraff, Günter",
-    "Year": "1974",
-    "Language": "German",
-    "Pages": "xii, pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 206129,
-    "Title": "Ägypten",
-    "Author": "Barocas, Claudio",
-    "Year": "1974",
-    "Language": "German",
-    "Pages": "192 pages",
-    "Location": "Wiesbaden"
-  },
-  {
-    "Id": 683499,
-    "Title": "\"Hoffentlich sind die Jungs auch pünktlich\" : Darstellung und Selbstdarstellung des homosexuellen Witzes",
-    "Author": "Hohmann, J.",
-    "Year": "1976",
-    "Language": "German",
-    "Pages": "92 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 683297,
-    "Title": "Abrechnung : Randbemerkungen zu Leben un Arbeit von John Henry Mackay",
-    "Author": "Mackkay, J.",
-    "Year": "1976",
-    "Language": "German",
-    "Pages": "188 pages",
-    "Location": "Freiburg"
-  },
-  {
-    "Id": 684081,
-    "Title": "\"Sterntaler\" : Feminismus und Geld : Aufsätze",
-    "Author": "Sterntaler.",
-    "Year": "1976",
-    "Language": "German",
-    "Pages": "76 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 3093,
-    "Title": "Ägypten : Geschichte, Bekleidung, Schmuck",
-    "Author": "Author unknown",
-    "Year": "1976",
-    "Language": "German",
-    "Pages": "86 pages",
-    "Location": "Paris etc."
-  },
-  {
-    "Id": 175703,
-    "Title": "1899-1931, Rudolf Alexander Schröder und die Wohnkunst : mit einem chronologischen Werküberblick und Katalog, sowie ein Verzeichnis der Werkzeichnungen im Archiv der Vereinigten Werkstätten für Kunst im Handwerk, München",
-    "Author": "Heiderich, Ursula",
-    "Year": "1977",
-    "Language": "German",
-    "Pages": "204 pages",
-    "Location": "Bremen"
-  },
-  {
-    "Id": 285629,
-    "Title": "\"Unterhaltungsmusik\" als soziokulturelles Phänomen des 19. Jahrhunderts : Untersuchung über den Einfluss der musikalischen Öffentlichkeit auf die Herausbildung eines neuen Musiktypes",
-    "Author": "Keldany-Mohr, Irmgard",
-    "Year": "1977",
-    "Language": "German",
-    "Pages": "143 pages",
-    "Location": "Regensburg"
-  },
-  {
-    "Id": 104073,
-    "Title": "ABC die Katze trinkt Kaffee : Bilder, Verse, Rätsel, Sprichwörter, Bildgeschichten, Suchbilder dazu ein Handalphabet",
-    "Author": "Gebert, Helga",
-    "Year": "1977",
-    "Language": "German",
-    "Pages": "47 pages",
-    "Location": "Weinheim etc."
-  },
-  {
-    "Id": 351324,
-    "Title": "200 Jahre friesische Fayencen : Ausstellung, Kreismuseum Zons, 24. März-19. Juni 1977 : Katalog",
-    "Author": "Tichelaar, J.P.",
-    "Year": "1977",
-    "Language": "German",
-    "Pages": "46 pages",
-    "Location": "Neuss"
-  },
-  {
-    "Id": 254706,
-    "Title": "Abendländische Klosterbaukunst",
-    "Author": "Braunfels, Wolfgang",
-    "Year": "1978",
-    "Language": "German",
-    "Pages": "335 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 303136,
-    "Title": "500 Jahre Glaskunst : Katalog der Sammlung Biemann",
-    "Author": "Klesse, Brigitte",
-    "Year": "1978",
-    "Language": "German",
-    "Pages": "397 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 63008,
-    "Title": "Wie Sodom und Gomorrha... : die Zerstörung der Städte",
-    "Author": "Engelsing, Rolf",
-    "Year": "1979",
-    "Language": "German",
-    "Pages": "195 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 326278,
-    "Title": "Adornos Musikphilosophie : Genese, Konstitution, pädagogische Perspektiven",
-    "Author": "Sziborsky, Lucia",
-    "Year": "1979",
-    "Language": "German",
-    "Pages": "302 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 273872,
-    "Title": "Aurea luce : Musik an St. Peter in Rom, 1790-1850",
-    "Author": "Kantner, Leopold Maximilian",
-    "Year": "1979",
-    "Language": "German",
-    "Pages": "352 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 315794,
-    "Title": "Adorno und die Musik",
-    "Author": "Otto Kolleritsch",
-    "Year": "1979",
-    "Language": "German",
-    "Pages": "243 pages",
-    "Location": "Graz"
-  },
-  {
-    "Id": 453714,
-    "Title": "A. Paul Weber : das graphische Werk, 1930-1978 : Handzeichnungen und Lithographien",
-    "Author": "Georg Reinhardt",
-    "Year": "1980",
-    "Language": "German",
-    "Pages": "344 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 170695,
-    "Title": "12 Künstler aus Deutschland : Hans Peter Adamski ... et al.",
-    "Author": "Jean-Christophe Ammann",
-    "Year": "1982",
-    "Language": "German",
-    "Pages": "152 pages",
-    "Location": "Basel"
-  },
-  {
-    "Id": 419492,
-    "Title": "Admiral Nelson und Joseph Haydn : ein britisch-österreichisches Gipfeltreffen",
-    "Author": "Deutsch, Otto Erich",
-    "Year": "1982",
-    "Language": "German",
-    "Pages": "135 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 687693,
-    "Title": "Was wird aus uns, wenn keine sich wehrt? : Kolumbien, die alltäglichen Kämpfe der Frauen",
-    "Author": "Loew, Angelika",
-    "Year": "1982",
-    "Language": "German",
-    "Pages": "151 pages",
-    "Location": "Reinbek bei Hamburg"
-  },
-  {
-    "Id": 249962,
-    "Title": "Adolph Menzel",
-    "Author": "Jensen, Jens Christian",
-    "Year": "1982",
-    "Language": "German",
-    "Pages": "147 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 685477,
-    "Title": "Diagnosecode und Computer in der Medizin",
-    "Author": "Author unknown",
-    "Year": "1982",
-    "Language": "German",
-    "Pages": "13 pages",
-    "Location": "Geen plaats van uitgave"
-  },
-  {
-    "Id": 751928,
-    "Title": "Paragraph 175 : Ein deutscher Paragraph und seine Geschichte : Über die alltägliche gesellschaftliche und rechtliche Diskriminierung homosexueller Menschen",
-    "Author": "Gausepohl, L.",
-    "Year": "1983",
-    "Language": "German",
-    "Pages": "32 pages",
-    "Location": "Bochum"
-  },
-  {
-    "Id": 469326,
-    "Title": "Adalbert Stifter",
-    "Author": "Wetzel, Christoph",
-    "Year": "1983",
-    "Language": "German",
-    "Pages": "304 pages",
-    "Location": "Salzburg"
-  },
-  {
-    "Id": 303735,
-    "Title": "\" Euthanasie\" im NS-Staat : die \"Vernichtung lebensunwerten Lebens\"",
-    "Author": "Klee, Ernst",
-    "Year": "1983",
-    "Language": "German",
-    "Pages": "502 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 172392,
-    "Title": "ABC und alles auf der Welt : ein Lese-Schatz-Buch",
-    "Author": "Andresen, Ute",
-    "Year": "1984",
-    "Language": "German",
-    "Pages": "159 pages",
-    "Location": "Ravensburg"
-  },
-  {
-    "Id": 684150,
-    "Title": "Adonis Reiseführer",
-    "Author": "Author unknown",
-    "Year": "1984",
-    "Language": "German",
-    "Pages": "Onge pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 40105,
-    "Title": "1984 - am Ende der Utopien : Literatur und Politik : Essays",
-    "Author": "Drewitz, Ingeborg",
-    "Year": "1984",
-    "Language": "German",
-    "Pages": "212 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 686510,
-    "Title": "AIDS : die Lust an der Seuche",
-    "Author": "Hinz, S.",
-    "Year": "1984",
-    "Language": "German",
-    "Pages": "249 pages",
-    "Location": "Reinbek bei Hamburg"
-  },
-  {
-    "Id": 684330,
-    "Title": "AIDS : Nachtrag zu Sumpffieber",
-    "Author": "Author unknown",
-    "Year": "1984",
-    "Language": "German",
-    "Pages": "34 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 315796,
-    "Title": "Abbild und Emotion : österreischischer Realismus, 1914-1944",
-    "Author": "Gabriele Koller",
-    "Year": "1984",
-    "Language": "German",
-    "Pages": "256 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 689169,
-    "Title": "Der Skorpion : Frauenliebe in der Weimarer Republik",
-    "Author": "Schoppmann, Claudia",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "81 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 280893,
-    "Title": "4. Biennale der deutschen Tapisserie : 2. April bis 15. Mai 1985",
-    "Author": "Heinz Spielmann",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "104 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 684153,
-    "Title": "Adressen zur schwulen, pädophilen, lesbischen Emanzipation",
-    "Author": "Author unknown",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "Unknown pages",
-    "Location": "Bonn"
-  },
-  {
-    "Id": 725666,
-    "Title": "Agostino : Roman",
-    "Author": "Moravia, A.",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "137 pages",
-    "Location": "Reinbek bei Hamburg"
-  },
-  {
-    "Id": 499707,
-    "Title": "\" Möcht es ein Lied das rühre sein...\"",
-    "Author": "Wolff, Eva",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "227 pages",
-    "Location": "s-Gravenhage"
-  },
-  {
-    "Id": 1191020,
-    "Title": "\"Lesben in der Weimarerrepublik und im 3. Reich\"",
-    "Author": "Wasserziehr, A.",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "78 pages",
-    "Location": "Frankfurt am Maim"
-  },
-  {
-    "Id": 689012,
-    "Title": "AIDS : eine Krankheit und ihre Folgen",
-    "Author": "Rühmann, F.",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "204 pages",
-    "Location": "Frankfurt am Main etc."
-  },
-  {
-    "Id": 133368,
-    "Title": "1945 1985 : Kunst in der Bundesrepublik Deutschland",
-    "Author": "Lucius Grisebach",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "732 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 183968,
-    "Title": "Adolph Menzel: Das Flötenkonzert in Sanssouci : ein realistisch geträumtes  Preussenbild",
-    "Author": "Hermand, Jost",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "79 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 575346,
-    "Title": "150 Jahre Eisenbahn in Deutschland",
-    "Author": "Schefold, Ulrich",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "191 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 684345,
-    "Title": "Aids-Information",
-    "Author": "Author unknown",
-    "Year": "1985",
-    "Language": "German",
-    "Pages": "28 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 494360,
-    "Title": "Afrikanische Kinderspiele",
-    "Author": "Nijhuis, Truus",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "95 pages",
-    "Location": "Wuppertal"
-  },
-  {
-    "Id": 684346,
-    "Title": "Aids-Informationen dezember 85",
-    "Author": "Author unknown",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "16 pages",
-    "Location": "Kiel"
-  },
-  {
-    "Id": 690071,
-    "Title": "8. Vortragsreihe zur Homosexualität",
-    "Author": "Author unknown",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "15 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 684706,
-    "Title": "2. Berliner Lesbenwoche, 25.10.-1.11.86",
-    "Author": "Author unknown",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "104 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 490862,
-    "Title": "2. Quilt-Biennale 1986",
-    "Author": "Doris Winter",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "59 pages",
-    "Location": "Heidelberg-Ziegelhausen"
-  },
-  {
-    "Id": 684316,
-    "Title": "AIDS : die Dimension einer Krankheit",
-    "Author": "Author unknown",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "10 pages",
-    "Location": "Hamburg etc."
-  },
-  {
-    "Id": 78153,
-    "Title": "\"Und Kunst geknebelt von der groben Macht\" : Dimitri Schostakowitsch : künstlerische Identität und staatliche Repression",
-    "Author": "Feuchtner, Bernd",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "318 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 759405,
-    "Title": "Adonis Reiseführer",
-    "Author": "Author unknown",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "Onge pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 592937,
-    "Title": "\" Ihm, welcher der Andacht Tempel baut\" : Ludwig I. und die Alte Pinakothek : Festschrift zum Jubiläumsjahr 1986",
-    "Author": "Konrad Renger",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "259 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 195125,
-    "Title": "Kabarett der spitzen Feder : Streitzeitschriften",
-    "Author": "Hippen, Reinhard",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "186 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 592699,
-    "Title": "Adriaen Brouwer und das niederländische Bauerngenre, 1600-1660",
-    "Author": "Renger, Konrad",
-    "Year": "1986",
-    "Language": "German",
-    "Pages": "142 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 177065,
-    "Title": "\" In uns selbst liegt Italien\" : die Kunst der Deutsch-Römer",
-    "Author": "Christoph H. Heilmann",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "407 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 684302,
-    "Title": "AIDS : medizinisch-biologische und gesellschaftliche Aspekte einer Krankheit",
-    "Author": "Author unknown",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "84 pages",
-    "Location": "Dortmund"
-  },
-  {
-    "Id": 687300,
-    "Title": "Wir leiden nicht mehr, sondern sind gelitten : lesbisch Leben in Deutschland",
-    "Author": "Kokula, Ilse",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "207 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 159817,
-    "Title": "200 Jahre Architektur : Bilder und Dokumente zur neueren Architekturgeschichte",
-    "Author": "Kristiana Hartmann",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "X, pages",
-    "Location": "Delft"
-  },
-  {
-    "Id": 690544,
-    "Title": "2 Jahre Österreichische Aids-Hilfe : ein Tätigkeitsbericht",
-    "Author": "Author unknown",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "65 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 55249,
-    "Title": "Ägyptens Aufstieg zur Weltmacht",
-    "Author": "Arne Eggebrecht",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "384 pages",
-    "Location": "Mainz am Rhein"
-  },
-  {
-    "Id": 689514,
-    "Title": "Kann denn Liebe Sünde sein ... : gleichgeschlechtlich liebende Männer : Opfer einer systematischen Theologie und deren Aktualisierung in christlicher Praxis : Diplomarbeit",
-    "Author": "Stapf, Jürgen",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "229 pages",
-    "Location": "Bamberg"
-  },
-  {
-    "Id": 684310,
-    "Title": "Aids : Psychosoziale Betreuung von Aids- und Aids-Vorfeld-patienten",
-    "Author": "H. Jäger",
-    "Year": "1987",
-    "Language": "German",
-    "Pages": "280 pages",
+    "Pages": "6 pages",
     "Location": "Stuttgart etc."
   },
   {
-    "Id": 405734,
-    "Title": "Ägypten und Vorderasien",
-    "Author": "Lloyd, Seton",
-    "Year": "1987",
+    "Id": 415231,
+    "Title": "Verzeichnis der Neudrucke alter Musik",
+    "Author": "Walter Lott",
+    "Year": "1937",
     "Language": "German",
-    "Pages": "202 pages",
+    "Pages": "23 pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 724944,
+    "Title": "Unser Freund Peregrin : Aufzeichnungen des Jürgen Brook : eine Erzählung",
+    "Author": "Seidel, I.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "191 pages",
     "Location": "Stuttgart"
   },
   {
-    "Id": 684295,
-    "Title": "AIDS : Bewältigung einer Seuche : österreichische und internationale Perspektiven",
-    "Author": "Christian Kobau",
-    "Year": "1987",
+    "Id": 581422,
+    "Title": "Die Geschichte der christlichen Kunst in China",
+    "Author": "Schüller, Sepp",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "XI, pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 67335,
+    "Title": "Zeitung und Linotype : ein historisch-technologischer Beitrag zur Entwicklung des modernen Zeitungswesens",
+    "Author": "Eule, Wilhelm",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "55 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 71888,
+    "Title": "Kleiner Mann, grosser Mann - alles vertauscht, oder Max Schreyvogels Last und Lust des Geldes : ein heiterer Roman",
+    "Author": "Fallada, Hans",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "411 pages",
+    "Location": "Stuttgart etc."
+  },
+  {
+    "Id": 952372,
+    "Title": "Die niederländischen Maler des 17. Jahrhundert",
+    "Author": "Jannasch, Adolph",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "337 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 93236,
+    "Title": "Blätter aus dem Brotsack : geschrieben im Grenzdienst 1939",
+    "Author": "Frisch, Max",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "99 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 18802,
+    "Title": "Die drei Reiche : (San Kwo Tschi) : Roman aus dem alten China",
+    "Author": "Franz Kuhn",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "546 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 101465,
+    "Title": "John Coleridge Patteson : der Missionsbischof von Melanesien",
+    "Author": "Gareis, Reinhold",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "16 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 572066,
+    "Title": "Die Mehrstimmigkeit der Ars antiqua in Theorie und Praxis",
+    "Author": "Sasse, Götz Dietrich",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "146 pages",
+    "Location": "Borna-Leipzig"
+  },
+  {
+    "Id": 554966,
+    "Title": "Über musikalische Inspiration",
+    "Author": "Pfitzner, Hans",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "94 pages",
+    "Location": "Berlin-Grunewald"
+  },
+  {
+    "Id": 114167,
+    "Title": "So treibt das Reich Sozialpolitik",
+    "Author": "Oskar Karstedt",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "154 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 550304,
+    "Title": "Unser Freund Peregrin : Aufzeichnungen des Jürgen Brook : eine Erzählung",
+    "Author": "Seidel, Ina",
+    "Year": "1940",
     "Language": "German",
     "Pages": "190 pages",
-    "Location": "Graz"
+    "Location": "Stuttgart etc."
   },
   {
-    "Id": 685755,
-    "Title": "4. Europäisches Schwules Chor Festival 1988 : Berlin, Pfingsten, 21.-22. Mai",
-    "Author": "Author unknown",
-    "Year": "1988",
+    "Id": 545598,
+    "Title": "Der Leviathan",
+    "Author": "Roth, Joseph",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "24 pages",
+    "Pages": "71 pages",
+    "Location": "Amsterdam"
+  },
+  {
+    "Id": 124791,
+    "Title": "Aus dem Lande des Halbmonds für die Jugend",
+    "Author": "Götte, Lina",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "86 pages",
+    "Location": "Wiesbaden"
+  },
+  {
+    "Id": 478833,
+    "Title": "Ostland : Gedichte",
+    "Author": "Miegel, Agnes",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "49 pages",
+    "Location": "Jena"
+  },
+  {
+    "Id": 130900,
+    "Title": "Verordeningenblad voor het bezette Nederlandsche gebied, jaar ... = : Verordnungsblatt für die besetzten niederländischen Gebiete, Jahr ...",
+    "Author": "Unknown",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "28 pages",
+    "Location": "s-Gravenhage"
+  },
+  {
+    "Id": 30498,
+    "Title": "Karl von Dittersdorfs Lebensbeschreibung : seinem Sohne in die Feder diktiert",
+    "Author": "von Dittersdorf, Karl Ditters",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "XIV, pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 456202,
+    "Title": "Neue Wege im Kompositions-Unterricht (Elementarlehre) : Harmonielehre, Kontrapunkt und Formenlehre in neuzeitlicher Beleuchtung : Tonsatzlehre",
+    "Author": "Wehle, Gerhard Fürchtegott",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "2 pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 448592,
+    "Title": "Tobias : Roman",
+    "Author": "Walter, Friedrich",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "300 pages",
+    "Location": "Amsterdam"
+  },
+  {
+    "Id": 427618,
+    "Title": "Das Phänomen der Technik : Zeugnisse, Deutung und Wirklichkeit",
+    "Author": "Diesel, Eugen",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "259 pages",
+    "Location": "Unknown"
+  },
+  {
+    "Id": 751759,
+    "Title": "Leonardo da Vinci : Gemälde, Zeichnungen, Studien",
+    "Author": "Nicodemi, G.",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "xlvii, pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 151113,
+    "Title": "Zwölf schwedische Erzähler von heute",
+    "Author": "Olle Holmberg",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "339 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 155112,
+    "Title": "Die Symphonien Anton Bruckners : dem Andenken an Karl Muck gewidmet",
+    "Author": "Abendroth, Walter",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "159 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 690438,
-    "Title": "Aids : eine Krankheit bricht viele Tabus : Betreuung von Betroffenen in Einzelberatungen und Gruppengesprächen",
-    "Author": "Woodtli, Martin",
-    "Year": "1988",
+    "Id": 372494,
+    "Title": "Der erste Tag : Erzählung",
+    "Author": "Tumler, Franz",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "223 pages",
-    "Location": "(Bern"
-  },
-  {
-    "Id": 572582,
-    "Title": "Adeles Album",
-    "Author": "Ponti, Claude",
-    "Year": "1988",
-    "Language": "German",
-    "Pages": "18 pages",
+    "Pages": "97 pages",
     "Location": "München"
   },
   {
-    "Id": 474074,
-    "Title": "1000 Jahre christliches Russland : zur Geschichte der Russisch Orthodoxen Kirche",
-    "Author": "Thomas Meyer",
-    "Year": "1988",
+    "Id": 178922,
+    "Title": "Assol",
+    "Author": "Helmich, H.",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "460 pages",
-    "Location": "Recklinghausen"
+    "Pages": "16 pages",
+    "Location": "Geen plaats van uitgave"
   },
   {
-    "Id": 684117,
-    "Title": "Abgrenzung, Ausgrenzung, Begrenzung : Treffen der Lesbenbewegung",
-    "Author": "Author unknown",
-    "Year": "1988",
+    "Id": 365991,
+    "Title": "Ein General kommt aus dem Dschungel",
+    "Author": "Traven, B.",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "115 pages",
-    "Location": "Berlin"
+    "Pages": "415 pages",
+    "Location": "Amsterdam"
   },
   {
-    "Id": 685962,
-    "Title": "5 Jahre Magnus Hirschfeld Centrum 1983-1988",
-    "Author": "Author unknown",
-    "Year": "1988",
+    "Id": 187660,
+    "Title": "Im Kampf mit dem Elefanten",
+    "Author": "Autenrieth, F.",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "42 pages",
-    "Location": "Hamburg"
+    "Pages": "14 pages",
+    "Location": "Basel etc."
   },
   {
-    "Id": 684343,
-    "Title": "Aids-Hysterie : berufliche Repressionen contra Menschenrechte",
-    "Author": "Author unknown",
-    "Year": "1988",
-    "Language": "German",
-    "Pages": "96 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 689062,
-    "Title": "20 Jahre bundesdeutsche Schwulenbewegung 1969-1989",
-    "Author": "Salmen, A.",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "79 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 375871,
-    "Title": "24 short pieces",
-    "Author": "Twombly, Cy",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "62 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 496215,
-    "Title": "\" O Mensch! Gib Acht!\" : Friedrich Nietzsches Bedeutung für Gustav Mahler",
-    "Author": "Nikkels, Everdina Agnes",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "217 pages",
-    "Location": "Amsterdam etc."
-  },
-  {
-    "Id": 553559,
-    "Title": "Adolf Loos",
-    "Author": "Burkhardt Rukschcio",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "478 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 684353,
-    "Title": "AIDS : eine Herausforderung an die Wissenschaft : 3. Bericht des Bundesministers für Forschung und Technologie",
-    "Author": "Author unknown",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "137 pages",
-    "Location": "Bonn"
-  },
-  {
-    "Id": 227965,
-    "Title": "ABC, der Teufel sitzt im Tee",
-    "Author": "Blecher, Wilfried",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "24 pages",
-    "Location": "Wien etc."
-  },
-  {
-    "Id": 37592,
-    "Title": "\"Was wollen Sie von mir?\" und 15 andere Geschichten",
-    "Author": "Dörrie, Doris",
-    "Year": "1989",
-    "Language": "German",
-    "Pages": "188 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 459273,
-    "Title": "Abriss der DDR",
-    "Author": "Stefan Welzk",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "185 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 644758,
-    "Title": "Abenteuer Musiktheorie : spielerische Übungen für Kinder",
-    "Author": "Koh, Josephine",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "67 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 644759,
-    "Title": "Abenteuer Musiktheorie : spielerische Übungen für Kinder",
-    "Author": "Koh, Josephine",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "65 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 408708,
-    "Title": "\" Unser einziger Weg ist Arbeit\" : das Getto in Lódz 1940-1944",
-    "Author": "Hanno Loewy",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "288 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 314721,
-    "Title": "\" Ich wundere mich, dass ich noch lebe\" : sowjetische Augenzeugen berichten",
-    "Author": "Kohl, Paul",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "319 pages",
-    "Location": "Gütersloh"
-  },
-  {
-    "Id": 686220,
-    "Title": "Aids : Krankheit oder Katastrophe?",
-    "Author": "Grau, G.",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "214 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 467719,
-    "Title": "\" Ohne uns läuft nichts mehr\" : die Revolution in der DDR",
-    "Author": "Menge, Marlies",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "255 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 260779,
-    "Title": "40 Jahre Bundesrepublik : eine Chronik in Bildern",
-    "Author": "Heiner Bremer",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "120 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 686841,
-    "Title": "\"Ich kann nicht mehr leben wie Ihr Negativen\"",
-    "Author": "Lukesch, B.",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "208 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 211098,
-    "Title": "550 Jahre Schatzkammer Stadtbibliothek Hannover",
-    "Author": "Marion Beaujean",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "175 pages",
-    "Location": "Hannover"
-  },
-  {
-    "Id": 685961,
-    "Title": "5 Jahre Österreichische Aids-Hilfe 1985-1990",
-    "Author": "Author unknown",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "306 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 559965,
-    "Title": "Adieu Marx : Gewalt und Ausbeutung im Hause des Wortführers",
-    "Author": "Pilgrim, Volker Elis",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "287 pages",
-    "Location": "Reinbek bei Hamburg"
-  },
-  {
-    "Id": 687985,
-    "Title": "Homosexuelle nazis : ein Stereotyp in Politik und Literatur des Exils",
-    "Author": "Meve, Jörn",
-    "Year": "1990",
-    "Language": "German",
-    "Pages": "II, pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 689890,
-    "Title": "Verführte Männer : das Leben der Kölner Homosexuellen im Dritten Reich",
-    "Author": "Author unknown",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "146, pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 335922,
-    "Title": "329 Tage : Innenansichten der Einigung",
-    "Author": "Teltschik, Horst",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "380 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 580391,
-    "Title": "Ägyptisches Museum",
-    "Author": "Karl-Heinz Priese",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "XII, pages",
-    "Location": "Mainz am Rhein"
-  },
-  {
-    "Id": 959783,
-    "Title": "Abenteuer auf See : über Piratinnen und andere Seefrauen",
-    "Author": "Helsper, H.",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "156 pages",
-    "Location": "Dortmund etc."
-  },
-  {
-    "Id": 575578,
-    "Title": "Adenauer",
-    "Author": "Schwarz, Hans-Peter",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "1083 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 684137,
-    "Title": "Act Up: Feuer unterm Arsch : die Aids-Aktionsgruppen in Deutschland und den USA : eine Dokumentation",
-    "Author": "Andreas. Salmen",
-    "Year": "1991",
+    "Id": 364652,
+    "Title": "Götter Griechenlands : Meisterwerke antiker Münzkunst",
+    "Author": "Lange, Kurt",
+    "Year": "1940",
     "Language": "German",
     "Pages": "127 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 687822,
-    "Title": "\"... ist unstreitig homosexuell : diskriminierung von Lesben und Schwulen in Arbeits- und Zivilrecht",
-    "Author": "Malt, M.",
-    "Year": "1991",
+    "Id": 195194,
+    "Title": "Hans Pfitzners \"Armer Heinrich\" in seiner Stellung zur Musik des ausgehenden 19. Jahrhunderts",
+    "Author": "Hirtler, Franz",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "98 pages",
+    "Pages": "143 pages",
+    "Location": "Würzburg"
+  },
+  {
+    "Id": 351129,
+    "Title": "La Botella und andere seltsame Geschichten",
+    "Author": "Kusenberg, Kurt",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "151 pages",
     "Location": "Hamburg"
   },
   {
-    "Id": 685010,
-    "Title": "AIDS : Bestandsverzeichnis der Amerika-Gedenkbibliothek",
-    "Author": "Bund, Frank",
-    "Year": "1991",
+    "Id": 196972,
+    "Title": "Feste und Bräuche des Schweizervolkes",
+    "Author": "Hoffmann-Krayer, Eduard",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "8 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 545412,
-    "Title": "Aber das Leben marschiert weiter und nimmt uns mit : der Briefwechsel zwischen Joseph Roth und dem Verlag De Gemeenschap 1936-1939",
-    "Author": "Joseph Roth",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "329 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 684196,
-    "Title": "AIDS - Ich doch nicht : Informationen und Texte über AIDS",
-    "Author": "Author unknown",
-    "Year": "1991",
-    "Language": "German",
-    "Pages": "49 pages",
+    "Pages": "VI, pages",
     "Location": "Zürich"
   },
   {
-    "Id": 432313,
-    "Title": "Adel bis Zunft : ein Lexikon des Mittelalters",
-    "Author": "Volkert, Wilhelm",
-    "Year": "1991",
+    "Id": 198390,
+    "Title": "Das Stift St. Florian und Anton Bruckner : Bilder zur deutschen Kultur- und Kunstgeschichte",
+    "Author": "Hollsteiner, Johannes",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "307 pages",
+    "Pages": "55 pages",
+    "Location": "Leizig"
+  },
+  {
+    "Id": 345506,
+    "Title": "Zuhause : neue Gedichte",
+    "Author": "Claudius, Hermann",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "172 pages",
     "Location": "München"
   },
   {
-    "Id": 688087,
-    "Title": "Aber in meinem Herzen sprach eine Stimme so laut : Homosexuelle Autobiographien und medizinische Pathographien im neunzehnten Jahrhundert",
-    "Author": "Müller, K.",
-    "Year": "1991",
+    "Id": 215272,
+    "Title": "Der magische Kreis : Erzählungen",
+    "Author": "Beheim-Schwarzbach, Martin",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "399 pages",
-    "Location": "Berlin"
+    "Pages": "338 pages",
+    "Location": "Stockholm"
   },
   {
-    "Id": 465659,
-    "Title": "Adenauer im Dritten Reich",
-    "Author": "Hans Peter Mensing",
-    "Year": "1991",
+    "Id": 219562,
+    "Title": "Das Gold",
+    "Author": "Berg, Georg",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "719 pages",
-    "Location": "Berlin"
+    "Pages": "248 pages",
+    "Location": "Stuttgart"
   },
   {
-    "Id": 753925,
-    "Title": "\"Lose Frauen...\" \" Verrückte Lesben...\" : Dokumentation der ASF-Fachkonferenz \"Alternative Lebensformen",
-    "Author": "Author unknown",
-    "Year": "1992",
+    "Id": 220115,
+    "Title": "Jonna Und Johannes : der Roman einer Liebe",
+    "Author": "Berglar-Schröer, Paul",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "88 pages",
-    "Location": "Berlin"
+    "Pages": "337 pages",
+    "Location": "Salzburg"
   },
   {
-    "Id": 754659,
-    "Title": "\"Gedanken über einen Satz von Michel Foucault : Über Freundschaft, Liebe und Sex unter Männern und über Philosophie\"",
-    "Author": "Schedler, Patrik",
-    "Year": "1992",
+    "Id": 338822,
+    "Title": "Musikerbrevier : nachdenkliches und ergötzliches aus dem Reich der Musik",
+    "Author": "Tenschert, Roland",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "26 pages",
-    "Location": "Zürich"
-  },
-  {
-    "Id": 754176,
-    "Title": "1982 - 1992 : 10 Jahre Rat & Tat Zentrum für Homosexuelle e.V. in Bremen",
-    "Author": "Author unknown",
-    "Year": "1992",
-    "Language": "German",
-    "Pages": "98 pages",
-    "Location": "Bremen"
-  },
-  {
-    "Id": 754077,
-    "Title": "\"... und auf einmal weißt du, dein Kind ist anders\" : Mütter von homosexuellen Söhnen und Töchtern berichten",
-    "Author": "Micus, Andrea",
-    "Year": "1992",
-    "Language": "German",
-    "Pages": "187 pages",
-    "Location": "Bergisch Gladbach"
-  },
-  {
-    "Id": 753934,
-    "Title": "\"O Wollust, O Hölle\" : die Onanie: Situationen einer Inquisition",
-    "Author": "L. Lütkehaus",
-    "Year": "1992",
-    "Language": "German",
-    "Pages": "288 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 752048,
-    "Title": "Aids : Mappe zur Umgang mit AIDS in der Jugendarbeit",
-    "Author": "Romana Kugelmeier",
-    "Year": "1992",
-    "Language": "German",
-    "Pages": "155 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 752894,
-    "Title": "AIDS : eine sexualisierte Krankheit",
-    "Author": "Fesenfeld, Anke",
-    "Year": "1992",
-    "Language": "German",
-    "Pages": "198 pages",
-    "Location": "Paderborn"
-  },
-  {
-    "Id": 755127,
-    "Title": "Einladung",
-    "Author": "Vetter, Jürgen",
-    "Year": "1992",
-    "Language": "German",
-    "Pages": "3, pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 754394,
-    "Title": "50 Jahre pervers : die sentimentale Memoiren",
-    "Author": "von Praunheim, R.",
-    "Year": "1993",
-    "Language": "German",
-    "Pages": "395 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 755844,
-    "Title": "\"Netzwerk AIDS\" : 10 Jahre AIDS-Hilfe und ihre psychosozialen Angebote",
-    "Author": "T. Biniasz",
-    "Year": "1993",
-    "Language": "German",
-    "Pages": "175 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 752032,
-    "Title": "Aids - eine Forschungsbilanz : Bericht über den Förderschwerpunkt \"Sozialwissenschaftliche AIDS-Forschung\" im Rahmen des Programms der Bundesregierung \"Forschung und Entwicklung im Dienste der Gesundheit\"",
-    "Author": "C. Lange",
-    "Year": "1993",
-    "Language": "German",
-    "Pages": "390 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 462402,
-    "Title": "Ägyptenrezeption in der europäischen Architektur des 19. Jahrhunderts",
-    "Author": "Werner, Friederike",
-    "Year": "1994",
-    "Language": "German",
-    "Pages": "180 pages",
-    "Location": "Weimar"
-  },
-  {
-    "Id": 755196,
-    "Title": "\"Wären Sie lieber ein normaler Mensch?\": Berliner Jugendliche über lesbische und schwule Lebensweisen : eine Befragung",
-    "Author": "Author unknown",
-    "Year": "1994",
-    "Language": "German",
-    "Pages": "102 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 417712,
-    "Title": "\"... diese der edlen Kunst gewidmeten Hallen\" : zur Geschichte der Hamburger Kunsthalle",
-    "Author": "Luckhardt, Ulrich",
-    "Year": "1994",
-    "Language": "German",
-    "Pages": "55 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 752034,
-    "Title": "Aids : heutiger Wissensstand",
-    "Author": "K. Beisswenger",
-    "Year": "1994",
-    "Language": "German",
-    "Pages": "39 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 753279,
-    "Title": "\"Himmel und Hölle\" : das Leben der Kölner Homosexuellen 1945-1969",
-    "Author": "Kristof Balser",
-    "Year": "1994",
-    "Language": "German",
-    "Pages": "273 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 752009,
-    "Title": "Adressverzeichnis für Lesben und Schwule : Wien",
-    "Author": "Author unknown",
-    "Year": "1994",
-    "Language": "German",
-    "Pages": "14 pages",
+    "Pages": "311 pages",
     "Location": "Wien"
   },
   {
-    "Id": 754076,
-    "Title": "\"Schade daß sie eine Frau ist...\" : Homosexuelle Ehemänner und ihre Angehörigen berichten",
-    "Author": "Micus, A.",
-    "Year": "1994",
+    "Id": 326568,
+    "Title": "Tanzschrift",
+    "Author": "Korty, Sonia",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "205 pages",
-    "Location": "Bergisch Gladbach"
+    "Pages": "39 pages",
+    "Location": "Mainz"
   },
   {
-    "Id": 722578,
-    "Title": "Abel und Joe : Roman",
-    "Author": "Sollorz, M.",
-    "Year": "1994",
+    "Id": 240164,
+    "Title": "Barbara und die Männer : Roman",
+    "Author": "Jacobsen, Jorgen-Frantz",
+    "Year": "1940",
     "Language": "German",
-    "Pages": "155 pages",
+    "Pages": "312 pages",
+    "Location": "Stuttgart etc."
+  },
+  {
+    "Id": 243223,
+    "Title": "Die assoziative Harmonik in den Klavier-Werken Claude Debussys",
+    "Author": "Jakobik, Albert",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "86 pages",
+    "Location": "Würzburg-Aumühle"
+  },
+  {
+    "Id": 264110,
+    "Title": "Die sanfte Gewalt : Roman",
+    "Author": "Brehm, Bruno",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "422 pages",
+    "Location": "München"
+  },
+  {
+    "Id": 306464,
+    "Title": "Unsterblicher Walzer : die Geschichte des deutschen Nationaltanzes",
+    "Author": "Klingenbeck, Fritz",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "106, pages",
+    "Location": "Wien"
+  },
+  {
+    "Id": 298220,
+    "Title": "Aus dem Leben einer Arbeiterfrau : Frau Hanna Hauft, genannt \"Tante Hanna\" ausgew. aus dem Lebensbild \"Tante Hanna\"",
+    "Author": "Busch, Wilhelm",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "32 pages",
+    "Location": "Elberfeld"
+  },
+  {
+    "Id": 277852,
+    "Title": "Das Drechslerwerk : ein Fachbuch für Drechsler, Lehrer und Architekten : auch ein Beitrag zur Stilgeschichte des Hausrats",
+    "Author": "Spannagel, Fritz",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "320 pages",
+    "Location": "Ravensburg"
+  },
+  {
+    "Id": 295285,
+    "Title": "Lexikon der Juden in der Musik : mit einem Titelverzeichnis jüdischer Werke",
+    "Author": "Stengel, Theo",
+    "Year": "1940",
+    "Language": "German",
+    "Pages": "394 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 568590,
-    "Title": "\" Jesu, ach so komm zu mir\" : Johann Sebastian Bachs Frömmigkeit im Spiegel seiner Kantaten",
-    "Author": "Simpfendörfer, Gottfried",
-    "Year": "1994",
+    "Id": 210236,
+    "Title": "Die Macht der Liebe : der Weg des Dante Alighieri",
+    "Author": "Bäumer, Gertrud",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "306 pages",
-    "Location": "Berlin etc."
+    "Pages": "826 pages",
+    "Location": "München"
   },
   {
-    "Id": 242020,
-    "Title": "Adolf Meyer : der zweite Mann : ein Architekt im Schatten von Walter Gropius",
-    "Author": "Jaeggi, Annemarie",
-    "Year": "1994",
+    "Id": 45809,
+    "Title": "Die Jahreswerbung des Lebensmittel-Einzelhandels",
+    "Author": "Unknown",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "485 pages",
-    "Location": "Unknown"
+    "Pages": "213 pages",
+    "Location": "Hamburg"
   },
   {
-    "Id": 163178,
-    "Title": "13 nach Memphis : Design zwischen Askese und Sinnlichkeit",
-    "Author": "Albus, Volker",
-    "Year": "1995",
+    "Id": 30731,
+    "Title": "Das Grundrisswerk : 1400 Grundrisse ausgeführter Bauten jeder Art mit Erläuterungen, Schnitten und Schaubildern",
+    "Author": "Otto Völckers",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "199 pages",
-    "Location": "München etc."
+    "Pages": "348 pages",
+    "Location": "Stuttgart"
   },
   {
-    "Id": 752275,
-    "Title": "11. Berliner Lesbenwoche vom 02. - 07.10.1995 : mit dem Schwerpunktthema \"Gegen Diskriminierung von Krüppellesben",
-    "Author": "Author unknown",
-    "Year": "1995",
+    "Id": 108441,
+    "Title": "Der Segelflug im Wettbewerb der Völker : unter Mitarbeit des Nationalsozialistischen Fliegerkorps und führender Männer des Segelflugs in europäischen und aussereuropäischen Ländern",
+    "Author": "Hubert Zuerl",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "62 pages",
+    "Pages": "207 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 752953,
-    "Title": "5 Jahre Gay Sport Zürich : Jubiläumsturnier Programm",
-    "Author": "Author unknown",
-    "Year": "1995",
+    "Id": 369018,
+    "Title": "Drei Haydn Kataloge in Faksimile, mit Einleitung und ergänzenden Themenverzeichnisse",
+    "Author": "Jens Peter Larsen",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "50 pages",
-    "Location": "Zürich"
+    "Pages": "138 pages",
+    "Location": "Kopenhagen"
   },
   {
-    "Id": 753492,
-    "Title": "\"Im crazy for das HolzfÃ¤llerhemd!\" : ein schwules Kompendium unnÃtigen Wissens, wahrer Worte und unglaublicher Dummheiten",
-    "Author": "A. Schock",
-    "Year": "1995",
+    "Id": 580347,
+    "Title": "Energiequelle : Windkraft",
+    "Author": "Schieber, Walther",
+    "Year": "1941",
+    "Language": "German",
+    "Pages": "157 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 475724,
+    "Title": "Europäische Kunst : Völker und Zeiten",
+    "Author": "Müseler, W.",
+    "Year": "1941",
     "Language": "German",
     "Pages": "239 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 754532,
-    "Title": "Resolutionen",
-    "Author": "Author unknown",
-    "Year": "1996",
+    "Id": 579419,
+    "Title": "Das Symbol in der Musik",
+    "Author": "Schering, Arnold",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "8 pages",
-    "Location": "Köln etc."
-  },
-  {
-    "Id": 204586,
-    "Title": "A century of design : insights outlook on a museum of tomorrow : Die Neue Sammlung, State Museum of Applied Arts, Munich",
-    "Author": "Florian Hufnagl",
-    "Year": "1996",
-    "Language": "German",
-    "Pages": "245 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 1192879,
-    "Title": "1000 schwule BÃ¼cher : Beschwingtes & Gewichtiges aus den Regalen des Buchladen MÃ¤nnerschwarm",
-    "Author": "Author unknown",
-    "Year": "1996",
-    "Language": "German",
-    "Pages": "127 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 1192694,
-    "Title": "Adoleszenten : Zeichnungen",
-    "Author": "Zerbruggen, Jan",
-    "Year": "1996",
-    "Language": "German",
-    "Pages": "152 pages",
-    "Location": "Basel"
-  },
-  {
-    "Id": 472698,
-    "Title": "3x 3 Lawinen : entscheiden in kritischen Situationen",
-    "Author": "Munter, Werner",
-    "Year": "1997",
-    "Language": "German",
-    "Pages": "220 pages",
-    "Location": "Garmisch Partenkirchen"
-  },
-  {
-    "Id": 755415,
-    "Title": "... wegen Vergehen nach § 175 verhaftet : die Verfolgung Düsseldorfer Homosexuellen während des Nationalsozialismus",
-    "Author": "Sparing, F.",
-    "Year": "1997",
-    "Language": "German",
-    "Pages": "229 pages",
-    "Location": "Düsseldorf"
-  },
-  {
-    "Id": 754628,
-    "Title": "\"Rolf\" : Karl Meier (1897-1974), Schauspieler, Regisseur, Herausgeber des \"Kreis\"",
-    "Author": "Salathé A.",
-    "Year": "1997",
-    "Language": "German",
-    "Pages": "12 pages",
-    "Location": "Frauenfeld"
-  },
-  {
-    "Id": 306578,
-    "Title": "Adris Busfahrt",
-    "Author": "Klootwijk, Wouter",
-    "Year": "1997",
-    "Language": "German",
-    "Pages": "80 pages",
-    "Location": "Weinheim"
-  },
-  {
-    "Id": 756329,
-    "Title": "AIDS-Jugendstudie 1997 : Zusammenfassung",
-    "Author": "Wimmer-Puchinger, B.",
-    "Year": "1997",
-    "Language": "German",
-    "Pages": "17 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 755451,
-    "Title": "Adressen für frauenliebende Frauen",
-    "Author": "Author unknown",
-    "Year": "1997",
-    "Language": "German",
-    "Pages": "10 pages",
-    "Location": "Essen"
-  },
-  {
-    "Id": 441469,
-    "Title": "50er Jahre Keramik : der Alltag der Moderne",
-    "Author": "Makus, Horst",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "195 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 152092,
-    "Title": "African masks : from the Barbier-Mueller Collection, Geneva",
-    "Author": "Hahner-Herzog, Iris",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "287 pages",
-    "Location": "Munich etc."
-  },
-  {
-    "Id": 417973,
-    "Title": "\" Ich bereue nichts!\" : die Aufzeichnungen des Sisi-Mörders",
-    "Author": "Lucheni, Luigi",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "255 pages",
-    "Location": "Wien"
-  },
-  {
-    "Id": 961209,
-    "Title": "12 Jahre Aids Hilfe Kiel e.V. : 1986-1997",
-    "Author": "U. Joeressen-Behrens",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "55 pages",
-    "Location": "Kiel"
-  },
-  {
-    "Id": 963139,
-    "Title": "Absolut queer : 1973-1998 : 25 Jahre Homosexuelle Interessengemeinschaft Berlin : Sonntags-Club e.V. 25 Jahre Emanzipationsarbeit",
-    "Author": "J. Bieniek",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "39 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 111318,
-    "Title": "A spot on the wall",
-    "Author": "Edwig Saxenhuber",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "91 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 141743,
-    "Title": "\" Triumph der neuen Tonkunst\" : Mozarts späte Sinfonien und ihr Umfeld",
-    "Author": "Gülke, Peter",
-    "Year": "1998",
-    "Language": "German",
-    "Pages": "281 pages",
-    "Location": "Unknown"
-  },
-  {
-    "Id": 79,
-    "Title": "1949-1999 : 50 Jahre deutsche Geschichte : Ereignisse, Personen, Entwicklungen",
-    "Author": "Heiner Geissler",
-    "Year": "1999",
-    "Language": "German",
-    "Pages": "208 pages",
-    "Location": "Leipzig etc."
-  },
-  {
-    "Id": 279038,
-    "Title": "\" Alles, was ich weiss\" : aus unbekannten Geheimdienstprotokollen vom Sommer 1945",
-    "Author": "Speer, Albert",
-    "Year": "1999",
-    "Language": "German",
-    "Pages": "320 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 575366,
-    "Title": "101 neue Fabeln",
-    "Author": "Schanz, Frida",
-    "Year": "19XX",
-    "Language": "German",
-    "Pages": "IV, pages",
+    "Pages": "199 pages",
     "Location": "Leipzig"
   },
   {
-    "Id": 592028,
-    "Title": "\" Lets hope for the best\" : Briefe und Notizbücher aud den Jahren 1948 bis 1978",
-    "Author": "Dessau, Paul",
-    "Year": "2000",
+    "Id": 240200,
+    "Title": "Märchenbilder und Traumgestalten",
+    "Author": "Bonsels, Waldemar",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "230 pages",
-    "Location": "Hofheim"
+    "Pages": "80 pages",
+    "Location": "Groningen etc."
   },
   {
-    "Id": 475581,
-    "Title": "Abenteuerferien mit Mario",
-    "Author": "Michels, Tilde",
-    "Year": "2000",
+    "Id": 62241,
+    "Title": "Alpensagen und Sennengeschichten aus der Schweiz",
+    "Author": "Englert-Faye, C.",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "109 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 459667,
-    "Title": "\" Entre Denges et Denezy... \" : Dokumente zur Schweizer Musikgeschichte 1900-2000",
-    "Author": "Ulrich Mosch",
-    "Year": "2000",
-    "Language": "German",
-    "Pages": "480 pages",
-    "Location": "Mainz etc."
-  },
-  {
-    "Id": 757249,
-    "Title": "5. Symposium zur Lesbenforschung : 03. - 05.11.00 Bielefeld",
-    "Author": "Author unknown",
-    "Year": "2000",
-    "Language": "German",
-    "Pages": "Onge pages",
-    "Location": "Bielefeld"
-  },
-  {
-    "Id": 384225,
-    "Title": "24 kleine Wunder : Bilder und Verse für die Weihnachtszeit",
-    "Author": "Leins, Christine",
-    "Year": "2000",
-    "Language": "German",
-    "Pages": "52 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 757634,
-    "Title": "\"Stein auf Stein : wir bauen an der Akademie der schwulen Generation",
-    "Author": "Author unknown",
-    "Year": "2001",
-    "Language": "German",
-    "Pages": "38 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 385582,
-    "Title": "Abgehängt",
-    "Author": "Vanderbeke, Birgit",
-    "Year": "2001",
-    "Language": "German",
-    "Pages": "127 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 159819,
-    "Title": "24 Weihnachtsgeschichten zum Vorlesen",
-    "Author": "Sophie Härtling",
-    "Year": "2001",
-    "Language": "German",
-    "Pages": "184 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 757880,
-    "Title": "\"Gut aufgehoben? : Zur psychosozialen Versorgung lesbischer Frauen mit Gewalt- und oder Diskriminierungserfahrungen im europäischen Vergleich",
-    "Author": "Ohms, C.",
-    "Year": "2001",
-    "Language": "German",
-    "Pages": "87 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 512376,
-    "Title": "Adler und Engel : Roman",
-    "Author": "Zeh, Juli",
-    "Year": "2001",
-    "Language": "German",
-    "Pages": "444 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 441677,
-    "Title": "Abenteuer japanische Fotografie 1860-1890",
-    "Author": "Philipp March",
-    "Year": "2002",
-    "Language": "German",
-    "Pages": "127 pages",
-    "Location": "Heidelberg"
-  },
-  {
-    "Id": 757931,
-    "Title": "\"... in der Richtung der Homosexualität verdorben\" : Psychiater, Kriminalpsychologen und Gerichtsmediziner über männliche Homosexualität 1850-1970",
-    "Author": "Mildenberger, F.",
-    "Year": "2002",
-    "Language": "German",
-    "Pages": "510 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 383359,
-    "Title": "19. Jahrhundert : I",
-    "Author": "Dahlhaus, Carl",
-    "Year": "2002",
-    "Language": "German",
-    "Pages": "791 pages",
-    "Location": "Laaber"
-  },
-  {
-    "Id": 383358,
-    "Title": "19. Jahrhundert : III",
-    "Author": "Dahlhaus, Carl",
-    "Year": "2003",
-    "Language": "German",
-    "Pages": "811 pages",
-    "Location": "Laaber"
-  },
-  {
-    "Id": 383924,
-    "Title": "19. Jahrhundert : II",
-    "Author": "Dahlhaus, Carl",
-    "Year": "2003",
-    "Language": "German",
-    "Pages": "938 pages",
-    "Location": "Laaber"
-  },
-  {
-    "Id": 178878,
-    "Title": "Abgetreten",
-    "Author": "Helfmann, Kornelia",
-    "Year": "2004",
-    "Language": "German",
-    "Pages": "125 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 726530,
-    "Title": "Abenteuer auf Ibiza",
-    "Author": "Schimel, L.",
-    "Year": "2004",
-    "Language": "German",
-    "Pages": "62 pages",
-    "Location": "Berlin"
-  },
-  {
-    "Id": 1015605,
-    "Title": "19. Jahrhundert",
-    "Author": "Dahlhaus, Carl",
-    "Year": "2004",
-    "Language": "German",
-    "Pages": "712 pages",
-    "Location": "Laaber"
-  },
-  {
-    "Id": 1015610,
-    "Title": "20. Jahrhundert : Historik, Ästhetik, Theorie, Oper, Arnold Schönberg",
-    "Author": "Dahlhaus, Carl",
-    "Year": "2005",
-    "Language": "German",
-    "Pages": "824 pages",
-    "Location": "Laaber"
-  },
-  {
-    "Id": 871918,
-    "Title": "Aber Aisha ist doch nicht euer Eigentum!",
-    "Author": "Faridi, Ben",
-    "Year": "2005",
-    "Language": "German",
-    "Pages": "100 pages",
-    "Location": "Mülheim an der Ruhr"
-  },
-  {
-    "Id": 726528,
-    "Title": "2 Boys in Love : Romantische und erotische Kurzgeschichten",
-    "Author": "Schimel, L.",
-    "Year": "2005",
-    "Language": "German",
-    "Pages": "155 pages",
-    "Location": "Köln"
-  },
-  {
-    "Id": 788622,
-    "Title": "\"Liebste Justi!\" : Briefe an die Familie",
-    "Author": "Mahler, Gustav",
-    "Year": "2006",
-    "Language": "German",
-    "Pages": "591 pages",
-    "Location": "Bonn"
-  },
-  {
-    "Id": 891194,
-    "Title": "ADAC SkiGuide ...",
-    "Author": "Author unknown",
-    "Year": "2007",
-    "Language": "German",
-    "Pages": "784 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 785504,
-    "Title": "Africa",
-    "Author": "Salgado, Sebastião",
-    "Year": "2007",
-    "Language": "German",
-    "Pages": "350 pages",
-    "Location": "Köln etc."
-  },
-  {
-    "Id": 888325,
-    "Title": "1968 : kurzer Sommer, lange Wirkung : ein literarisches Lesebuch",
-    "Author": "Andreas Pflitsch",
-    "Year": "2008",
-    "Language": "German",
-    "Pages": "383 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 682274,
-    "Title": "Â«John Wayne wouldnt like gay cowboys.Â» : Ang Lees Western Brokeback Mountain und die Genretradition",
-    "Author": "Liebrand, C.",
-    "Year": "2008",
-    "Language": "German",
-    "Pages": "42 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 914182,
-    "Title": "200 Gramm Punkrock : Roman",
-    "Author": "Off, Jan",
-    "Year": "2009",
-    "Language": "German",
-    "Pages": "222 pages",
-    "Location": "München"
-  },
-  {
-    "Id": 961176,
-    "Title": "\"Gegen Einsamkeit und Einsiedelei\": Die Geschichte der Internationalen Homophilen Welt-Organisation (IHWO)",
-    "Author": "Wolfert, R.",
-    "Year": "2009",
-    "Language": "German",
-    "Pages": "220 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 952732,
-    "Title": "Achtung, fertig, Baustelle! : wie ein Haus geplant und gebaut wird",
-    "Author": "Toyka, Rolf",
-    "Year": "2009",
-    "Language": "German",
-    "Pages": "32 pages",
-    "Location": "Hildesheim"
-  },
-  {
-    "Id": 1095928,
-    "Title": "\"...eines Freundes Freund zu sein...\"",
-    "Author": "Haas E.",
-    "Year": "2009",
-    "Language": "German",
-    "Pages": "120 pages",
-    "Location": "MÃ¼nchen"
-  },
-  {
-    "Id": 910175,
-    "Title": "\"Mann muss über sich selbst schreiben\" : Erzählungen, Familieporträts, Essays",
-    "Author": "Mann, Golo",
-    "Year": "2009",
-    "Language": "German",
-    "Pages": "275 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 1095676,
-    "Title": "\"Ihre Eltern dachten, dass sie ein Junge wÃ¤re.\" : TranssexualitÃ¤t und Transgender in einer zweigeschlechtlichen Welt",
-    "Author": "Bauer, R.",
-    "Year": "2009",
-    "Language": "German",
-    "Pages": "44 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 1000377,
-    "Title": "\"Hau ab, du Flasche!\"",
-    "Author": "Ladiges, Ann",
-    "Year": "2010",
-    "Language": "German",
-    "Pages": "93 pages",
-    "Location": "Reinbek bei Hamburg"
-  },
-  {
-    "Id": 1095926,
-    "Title": "19 Empfindlichkeiten : Reaktionen auf Hubert Fichte",
-    "Author": "M. Fuhse",
-    "Year": "2010",
-    "Language": "German",
-    "Pages": "245 pages",
-    "Location": "Hamburg"
-  },
-  {
-    "Id": 1096511,
-    "Title": "\"Ruhe gibt es nicht, bis zum SchluÃ\" : Klaus Mann (1906 -1949) : Bilder und Dokumente",
-    "Author": "U. Naumann",
-    "Year": "2010",
-    "Language": "German",
-    "Pages": "352 pages",
-    "Location": "Reinbek bei Hamburg"
-  },
-  {
-    "Id": 1037667,
-    "Title": "Adams Erbe : Roman",
-    "Author": "Rosenfeld, Astrid",
-    "Year": "2011",
-    "Language": "German",
-    "Pages": "384 pages",
+    "Pages": "234 pages",
     "Location": "Zürich"
   },
   {
-    "Id": 1096395,
-    "Title": "(M)ein bewegtes Leben",
-    "Author": "Jaeckel, M.",
-    "Year": "2011",
+    "Id": 257311,
+    "Title": "Im Kampf mit dem Krokodil : Erlebnisse Kahajan - Flusz in Borneo",
+    "Author": "Braun-Dipp, Elisabeth",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "196 pages",
-    "Location": "Sulzbach"
+    "Pages": "21 pages",
+    "Location": "Basel"
   },
   {
-    "Id": 1002590,
-    "Title": "11 Schafe zum Frühstück",
-    "Author": "Kempter, Christa",
-    "Year": "2011",
+    "Id": 138023,
+    "Title": "W. A. Mozart",
+    "Author": "Walter Thomas",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "26 pages",
-    "Location": "Mannheim"
+    "Pages": "104 pages",
+    "Location": "Wien etc."
   },
   {
-    "Id": 1029781,
-    "Title": "Ada liebt : Roman",
-    "Author": "Balschun, Nicole",
-    "Year": "2011",
+    "Id": 378,
+    "Title": "10 Jahre nationalsozialistisches Symphonieorchester, 1931-1941",
+    "Author": "Unknown",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "190 pages",
-    "Location": "KÒln"
+    "Pages": "85 pages",
+    "Location": "Geen plaats van uitgave"
   },
   {
-    "Id": 1037668,
-    "Title": "\"Sire, ich eile ...\" : Voltaire bei Friedrich II. : eine Novelle",
-    "Author": "Schädlich, Hans Joachim",
-    "Year": "2012",
+    "Id": 119084,
+    "Title": "Die Technik der Neuzeit",
+    "Author": "Friedrich Klemm",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "143 pages",
-    "Location": "Reinbek bei Hamburg"
+    "Pages": ".. pages",
+    "Location": "Potsdam"
   },
   {
-    "Id": 1051439,
-    "Title": "Ab jetzt ist Ruhe : Roman meiner fabelhaften Familie",
-    "Author": "Brasch, Marion",
-    "Year": "2012",
+    "Id": 272553,
+    "Title": "Die graphischen Künste",
+    "Author": "Kampmann, Carl",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "398 pages",
-    "Location": "Frankfurt am Main"
-  },
-  {
-    "Id": 1117002,
-    "Title": "55 kommunikative Spiele",
-    "Author": "Daum, Susanne",
-    "Year": "2012",
-    "Language": "German",
-    "Pages": "144 pages",
-    "Location": "Stuttgart"
-  },
-  {
-    "Id": 1096282,
-    "Title": "Paragraph 175 StGB : Rehabilitierung der nach 1945 verurteilten homosexuellen MÃ¤nner",
-    "Author": "L. LÃ¤hnemann",
-    "Year": "2012",
-    "Language": "German",
-    "Pages": "115 pages",
+    "Pages": "129 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 1192201,
-    "Title": "\"Raus aus den Klappen -- Rein in die Strassen!\" : Schwule Politiken in der Homosexuallen Aktion Westberlin von 1971 bis 1976 = \"Out of the toilets -- Into the streets!\" : Gay Politics in the Homosexuelle Aktion Westberlin from 1971 to 1976",
-    "Author": "LaLove, Patsy l'Amour",
-    "Year": "2012",
+    "Id": 197452,
+    "Title": "Der Struwwelpeter",
+    "Author": "Hoffmann, Heinrich",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "103 pages",
+    "Pages": "24 pages",
+    "Location": "Geen plaats van uitgave"
+  },
+  {
+    "Id": 277970,
+    "Title": "Gedrechselte Geräte : mit einer Einführung in die Kulturgeschichte des Drechslerhandwerks",
+    "Author": "Spannagel, Fritz",
+    "Year": "1941",
+    "Language": "German",
+    "Pages": "64 pages",
+    "Location": "Ravensburg"
+  },
+  {
+    "Id": 279559,
+    "Title": "Gedanken",
+    "Author": "Spengler, Oswald",
+    "Year": "1941",
+    "Language": "German",
+    "Pages": "130 pages",
+    "Location": "München"
+  },
+  {
+    "Id": 280635,
+    "Title": "Das Kostümwerk : eine Geschichte des Kostüms aller Zeiten und Völker vom Altertum bis zur Neuzeit einschliesslich der Volkstrachten Europas und der Trachten der aussereuropäischen Länder, etc",
+    "Author": "Bruhn, Wolfgang",
+    "Year": "1941",
+    "Language": "German",
+    "Pages": "116 pages",
     "Location": "Berlin"
   },
   {
-    "Id": 1090668,
-    "Title": "Abenteurroman",
-    "Author": "Henschel, Gerhard",
-    "Year": "2012",
+    "Id": 389084,
+    "Title": "Anleitung zum Partiturlesen",
+    "Author": "Leschetizky, Theodor H.",
+    "Year": "1941",
     "Language": "German",
-    "Pages": "572 pages",
-    "Location": "Hamburg"
+    "Pages": "38 pages",
+    "Location": "Wien"
   },
   {
-    "Id": 1066872,
-    "Title": "1913 : der Sommer des Jahrhunderts",
-    "Author": "Illies, Florian",
-    "Year": "2012",
+    "Id": 316216,
+    "Title": "Das Jahr der schönen Täuschungen",
+    "Author": "Carossa, Hans",
+    "Year": "1941",
     "Language": "German",
     "Pages": "319 pages",
-    "Location": "Frankfurt am Main"
+    "Location": "Leipzig"
   },
   {
-    "Id": 1096925,
-    "Title": "Â»Meine erste GeliebteÂ« : Magnus Hirschfeld und sein VerhÃ¤ltnis zur schÃnen Literatur",
-    "Author": "Krass, A.",
-    "Year": "2013",
+    "Id": 501440,
+    "Title": "Die Orchester-Instrumente in akustischer und technischer Betrachtung",
+    "Author": "Moritz, Camillo",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "78 pages",
-    "Location": "GÃttingen"
+    "Pages": "174 pages",
+    "Location": "Berlin"
   },
   {
-    "Id": 1118061,
-    "Title": "Abgeschnitten : Thriller",
-    "Author": "Fitzek, Sebastian",
-    "Year": "2013",
+    "Id": 267411,
+    "Title": "Paracelsica : zwei Vorlesungen über den Arzt und Philosophen Theophrastus",
+    "Author": "Jung, C.G.",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "393 pages",
-    "Location": "München"
+    "Pages": "188 pages",
+    "Location": "Zürich etc."
   },
   {
-    "Id": 1093963,
-    "Title": "1813 : Kriegsfeuer : Roman",
-    "Author": "Ebert, Sabine",
-    "Year": "2013",
+    "Id": 43832,
+    "Title": "Die etruskische, italo-hellenistische und römische Malerei",
+    "Author": "Ducati, Pericle",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "923 pages",
-    "Location": "München"
+    "Pages": "xxxiv pages",
+    "Location": "Wien"
   },
   {
-    "Id": 1099196,
-    "Title": "Achtung, Spionage!",
-    "Author": "Wich, Henriette",
-    "Year": "2013",
+    "Id": 221031,
+    "Title": "Die organische Erneuerung unsere Städte : ein Vorschlag ... dem Verfall preisgegeben sind",
+    "Author": "Bernoulli, Hans",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "144 pages",
-    "Location": "Stuttgart"
+    "Pages": "72 pages",
+    "Location": "Basel"
   },
   {
-    "Id": 1115937,
-    "Title": "Der Tod des Empedokles",
-    "Author": "Hölderlin, Friedrich",
-    "Year": "2014",
+    "Id": 595260,
+    "Title": "Die gute Einkehr : Auswahl schönster Holzschnitte mit Sprüchen und Liedern",
+    "Author": "Richter, Ludwig",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "285 pages",
+    "Pages": "102 pages",
     "Location": "Unknown"
   },
   {
-    "Id": 1192960,
-    "Title": "Â«Keine Liebe ist an sich Tugend oder LasterÂ» : Heinrich HÃssli (1784-1864) und sein Kampf fÃ¼r die MÃ¤nnerliebe",
-    "Author": "R. Thalmann",
-    "Year": "2014",
+    "Id": 349344,
+    "Title": "Die Salzberger Schwalbengeschichte",
+    "Author": "Thomé, Else",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "224 pages",
-    "Location": "ZÃ¼rich"
+    "Pages": "129 pages",
+    "Location": "Berlin"
   },
   {
-    "Id": 1117362,
-    "Title": "40 Stunden : Thriller",
-    "Author": "Lange, Kathrin",
-    "Year": "2014",
+    "Id": 589729,
+    "Title": "Tabakwarenkunde : der Tabak, sein Anbau und seine Verarbeitung",
+    "Author": "Reckert, Franz Karl",
+    "Year": "1942",
     "Language": "German",
-    "Pages": "415 pages",
+    "Pages": "XII, pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 588649,
+    "Title": "Kulturgeschichte der Gaststätte",
+    "Author": "Rauers, Friedrich",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "2 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 188025,
+    "Title": "Wilhelm Furtwängler : Weg und Wesen",
+    "Author": "Herzfeld, Friedrich",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "210 pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 365919,
+    "Title": "Münzkunst des Mittelalters",
+    "Author": "Lange, Kurt",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "94 pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 185144,
+    "Title": "Glanz des Wahren : von Wesen, Wirken und Lebensbedeutung der bidenden Kunst",
+    "Author": "Herrmann, Hans",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "136 pages",
+    "Location": "Krailling vor München"
+  },
+  {
+    "Id": 17927,
+    "Title": "Deutsches Lesebuch für Volksschulen. 1. Bd",
+    "Author": "Unknown",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "176 pages",
+    "Location": "Düsseldorf"
+  },
+  {
+    "Id": 150051,
+    "Title": "Die Arche Noah",
+    "Author": "Haffter, Eugen",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "12 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 569357,
+    "Title": "Moralia",
+    "Author": "Plutarchus",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "XXVIII, pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 139163,
+    "Title": "Der Ehrfürchtige : Anton Bruckners Leben dem Volk erzählt",
+    "Author": "Grüninger, Fritz",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "162 pages",
+    "Location": "Freiburg i. Br."
+  },
+  {
+    "Id": 552075,
+    "Title": "Der Pudel des Herrn Theobald",
+    "Author": "Peter, Paul",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "111 pages",
+    "Location": "Unknown"
+  },
+  {
+    "Id": 118263,
+    "Title": "Bilder der Landschaft",
+    "Author": "Goethe, Johann Wolfgang",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "108 pages",
+    "Location": "Basel"
+  },
+  {
+    "Id": 118905,
+    "Title": "Nänie",
+    "Author": "Goethe, Johann Wolfgang",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "20 pages",
+    "Location": "Basel"
+  },
+  {
+    "Id": 539235,
+    "Title": "Die Sprache der Kunst",
+    "Author": "Schumacher, Fritz",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "320 pages",
+    "Location": "Stuttgart etc."
+  },
+  {
+    "Id": 534412,
+    "Title": "Angelika Kauffmann : ein Künstlerroman des XVIII. Jahrhunderts",
+    "Author": "Passow-Kernen, Hilde",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "275 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 514826,
+    "Title": "Nordische Handweberei : auf Nordlandreisen und durch längeren Besuch von Webschulen im Norden gesammelte Erfahrungen",
+    "Author": "Zolles, Mina",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "7 pages",
+    "Location": "Plauen i. Vogtland"
+  },
+  {
+    "Id": 513887,
+    "Title": "Im Sturm auf dem Barito, und andere Erzählungen",
+    "Author": "Zimmer, L.",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "23 pages",
+    "Location": "Basel"
+  },
+  {
+    "Id": 504441,
+    "Title": "Das Sitzmöbel : ein Fachbuch für Polsterer, Stuhlbauer, Entwerfende und Schulen",
+    "Author": "Nothhelfer, Karl",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "306 pages",
+    "Location": "Ravensburg"
+  },
+  {
+    "Id": 168603,
+    "Title": "Kammermusik-Katalog : ein Verzeichnis von seit 1841 veröffentlichten Kammermusikwerken",
+    "Author": "Wilhelm Altmann",
+    "Year": "1942",
+    "Language": "German",
+    "Pages": "X, pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 99464,
+    "Title": "Russische Lyrik",
+    "Author": "Werner von Matthey",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "104 pages",
+    "Location": "Basel"
+  },
+  {
+    "Id": 296297,
+    "Title": "Neue Erziehung",
+    "Author": "Stellrecht, Helmut",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "227 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 682099,
+    "Title": "Olympia : sechzig Bilder",
+    "Author": "Unknown",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "56 pages",
+    "Location": "Königsberg"
+  },
+  {
+    "Id": 271401,
+    "Title": "Kunstlicht und Architektur",
+    "Author": "Kalff, L.C.",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "299 pages",
+    "Location": "Eindhoven"
+  },
+  {
+    "Id": 649464,
+    "Title": "Ariadne auf Naxos : Oper in einem Aufzug nebst einem Vorspiel",
+    "Author": "von Hofmannsthal, Hugo",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "72 pages",
+    "Location": "London etc."
+  },
+  {
+    "Id": 487160,
+    "Title": "Bauordnungslehre",
+    "Author": "Neufert, Ernst",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "494 pages",
+    "Location": "Berlin etc."
+  },
+  {
+    "Id": 52018,
+    "Title": "Unter anderem Himmel : Roman",
+    "Author": "Ebermayer, Erich",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "424 pages",
+    "Location": "Berlin etc."
+  },
+  {
+    "Id": 346062,
+    "Title": "Wie Heini der Stärkste wurde : Ein Bilderbuch von Turnen, Sport und Spiel",
+    "Author": "Thiele, Arthur",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "30 pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 86643,
+    "Title": "Reisebriefe aus den Niederlanden 1790",
+    "Author": "Forster, Georg",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "75 pages",
+    "Location": "Brussel"
+  },
+  {
+    "Id": 726086,
+    "Title": "Liselotte : ein Roman aus dem Leben der Elisabeth Charlotte von der Pfalz",
+    "Author": "von Ungern-Sternberg, A.",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "623 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 458820,
+    "Title": "Von Deutscher Tonkunst : Festschrift zu Peter Raabes 70. Geburtstag",
+    "Author": "Alfred Morgenroth",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "247 pages",
+    "Location": "Leipzig"
+  },
+  {
+    "Id": 575518,
+    "Title": "Arnold Böcklin, ein Maler aus dem Geiste der Musik",
+    "Author": "Schneider, Max F.",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "76 pages",
+    "Location": "Basel"
+  },
+  {
+    "Id": 411996,
+    "Title": "Luca della Robbia",
+    "Author": "Robbia, Luca Della",
+    "Year": "1943",
+    "Language": "German",
+    "Pages": "4 pages",
+    "Location": "Novara"
+  },
+  {
+    "Id": 564220,
+    "Title": "Lebendiges Theater : drei Jahrzehnte deutscher Theaterkunst",
+    "Author": "Sievert, Ludwig",
+    "Year": "1944",
+    "Language": "German",
+    "Pages": "69 pages",
     "Location": "München"
   },
   {
-    "Id": 1133397,
-    "Title": "Abruzzen : wandern zwischen Gran Sasso und Adriaküste : die 60 schönsten Tal- und Höhenwanderungen",
-    "Author": "Bauregger, Heinrich",
-    "Year": "2015",
+    "Id": 134237,
+    "Title": "Hans im Glück",
+    "Author": "Grimm, Jacob",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "270 pages",
-    "Location": "München"
+    "Pages": "14 pages",
+    "Location": "Zürich"
   },
   {
-    "Id": 1120131,
-    "Title": "ADAC-Campingführer Deutschland : offizieller Campingführer des Allgemeinen Deutschen Automobil-Club",
-    "Author": "Author unknown",
-    "Year": "2015",
+    "Id": 135424,
+    "Title": "Das tapfere Schneiderlein",
+    "Author": "Grimm, Jacob",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "846 pages",
-    "Location": "München"
+    "Pages": "15 pages",
+    "Location": "Zürich"
   },
   {
-    "Id": 1120132,
-    "Title": "ADAC-Campingführer Südeuropa : offizieller Campingführer des Allgemeinen Deutschen Automobil-Club",
-    "Author": "Author unknown",
-    "Year": "2015",
+    "Id": 518118,
+    "Title": "Amerigo : die Geschichte eines historischen Irrtums",
+    "Author": "Zweig, Stefan",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "1116 pages",
-    "Location": "München"
+    "Pages": "132 pages",
+    "Location": "Stockholm"
   },
   {
-    "Id": 1153047,
-    "Title": "20th century fashion",
-    "Author": "Heimann, Jim",
-    "Year": "2016",
+    "Id": 520851,
+    "Title": "Die Geschichte meiner Schwester",
+    "Author": "Osorgin, Michail Andreevic",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "587 pages",
-    "Location": "Köln"
+    "Pages": "178 pages",
+    "Location": "Zürich"
   },
   {
-    "Id": 1139882,
-    "Title": "ADAC-Campingführer 2016 Deutschland, Nordeuropa : Deutschland, Belgien, Dänemark, Estland, Finnland, Irland, Lettland, Litauen, Luxemburg, Niederlande, Norwegen, Polen, Russiche Föderation, Schweden, Slowakei, Tschechien, Vereinigtes Königreich",
-    "Author": "Author unknown",
-    "Year": "2016",
+    "Id": 135573,
+    "Title": "Wiener Barockpaläste",
+    "Author": "Grimschitz, Bruno",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "882 pages",
-    "Location": "München"
+    "Pages": "XXI, pages",
+    "Location": "Wien"
   },
   {
-    "Id": 1191654,
-    "Title": "35 Jahre SC Janus e.V. : Mehr als Sport",
-    "Author": "I. Blom-BÃer",
-    "Year": "2016",
+    "Id": 441084,
+    "Title": "Die vertauschten Köpfe : eine indische Legende",
+    "Author": "Mann, Thomas",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "58 pages",
-    "Location": "KÃln"
+    "Pages": "230 pages",
+    "Location": "Stockholm"
   },
   {
-    "Id": 1159186,
-    "Title": "Ab heute heiße ich Margo : Roman",
-    "Author": "Stephan, Cora",
-    "Year": "2016",
+    "Id": 439330,
+    "Title": "Das Gesetz : Erzählung",
+    "Author": "Mann, Thomas",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "639 pages",
-    "Location": "Köln"
+    "Pages": "160 pages",
+    "Location": "Stockholm"
   },
   {
-    "Id": 1141404,
-    "Title": "ADAC-Campingführer 2016 Südeuropa : Albanien, Andorra, Bosnien und Herzegowina, Bulgarien, Frankreich, Griechenland, Italien, Kroatien, Malta, Mazedonien, Montenegro, Österreich, Portugal, Rumänien, Schweiz, Serbien, Slowenien, Spanien, Türkei, Ungarn",
-    "Author": "Author unknown",
-    "Year": "2016",
+    "Id": 463201,
+    "Title": "Jacobowsky und der Oberst : Komödie einer Tragödie in drei Akten",
+    "Author": "Werfel, Franz",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "1150 pages",
-    "Location": "München"
+    "Pages": "129 pages",
+    "Location": "Stockholm"
   },
   {
-    "Id": 1159489,
-    "Title": "ADAC-Campingführer 2017 Südeuropa : Albanien, Andorra, Bosnien und Herzegowina, Bulgarien, Frankreich, Griechenland, Italien, Kroatien, Malta, Mazedonien, Montenegro, Österreich, Portugal, Rumänien, Schweiz, Serbien, Slowenien, Spanien, Türkei, Ungarn",
-    "Author": "Author unknown",
-    "Year": "2017",
+    "Id": 384571,
+    "Title": "Indianische Kunst und Kultur : ein Jahrtausend im Reiche der Chimu",
+    "Author": "Leicht, Hermann",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "1168 pages",
-    "Location": "München"
+    "Pages": "352 pages",
+    "Location": "Zürich"
   },
   {
-    "Id": 1159488,
-    "Title": "ADAC-Campingführer 2017 Deutschland, Nordeuropa : Deutschland, Belgien, Dänemark, Estland, Finnland, Irland, Lettland, Litauen, Luxemburg, Niederlande, Norwegen, Österreich, Polen, Russiche Föderation, Schweden, Slowakei, Tschechien, Vereinigtes Königreich",
-    "Author": "Author unknown",
-    "Year": "2017",
+    "Id": 584389,
+    "Title": "Pique-Dame, und andere Erzählungen",
+    "Author": "Puskin, Aleksandr",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "936 pages",
-    "Location": "München"
+    "Pages": "364 pages",
+    "Location": "Zürich"
   },
   {
-    "Id": 1175609,
-    "Title": "ADAC-Campingführer 2018 Südeuropa : Albanien, Andorra, Bosnien und Herzegowina, Bulgarien, Frankreich, Griechenland, Italien, Kroatien, Malta, Mazedonien, Montenegro, Österreich, Portugal, Rumänien, Schweiz, Serbien, Slowenien, Spanien, Türkei, Ungarn",
-    "Author": "Author unknown",
-    "Year": "2018",
+    "Id": 364025,
+    "Title": "Das römische Bildnis in Meisterwerken der Münzkunst",
+    "Author": "Lanckoronski, Leo",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "1168 pages",
-    "Location": "München"
+    "Pages": "115 pages",
+    "Location": "Amsterdam etc."
   },
   {
-    "Id": 1175608,
-    "Title": "ADAC-Campingführer 2018 Deutschland, Nordeuropa : Deutschland, Belgien, Dänemark, Estland, Finnland, Irland, Lettland, Litauen, Luxemburg, Niederlande, Norwegen, Österreich, Polen, Russiche Föderation, Schweden, Slowakei, Tschechien, Vereinigtes Königreich",
-    "Author": "Author unknown",
-    "Year": "2018",
+    "Id": 212807,
+    "Title": "Briefe und Gespräche",
+    "Author": "van Beethoven, Ludwig",
+    "Year": "1944",
     "Language": "German",
-    "Pages": "954 pages",
-    "Location": "München"
+    "Pages": "260 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 720895,
+    "Title": "Hyperion oder Der Eremit in Griechenland",
+    "Author": "Hoelderlin, Friedrich",
+    "Year": "1944",
+    "Language": "German",
+    "Pages": "195 pages",
+    "Location": "Berlin"
+  },
+  {
+    "Id": 726002,
+    "Title": "Das Buch von Blaise",
+    "Author": "Monnier, P.",
+    "Year": "1944",
+    "Language": "German",
+    "Pages": "242 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 13065,
+    "Title": "Chinesische Gedichte in Vierzeilern aus der Tang Zeit",
+    "Author": "Ta-Kang Lo",
+    "Year": "1944",
+    "Language": "German",
+    "Pages": "143 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 438546,
+    "Title": "Adel des Geistes : sechzehn Versuche zum Problem der Humanität",
+    "Author": "Mann, Thomas",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "708 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 110604,
+    "Title": "Bilderbuch unserer Demokratie",
+    "Author": "von Geyerz, Walo",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "149 pages",
+    "Location": "Bern"
+  },
+  {
+    "Id": 135350,
+    "Title": "Tischlein deck dich. - Goldesel und Knüppel aus dem Sack",
+    "Author": "Grimm, Jacob",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "15 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 148440,
+    "Title": "Die Zeit der Entscheidung",
+    "Author": "Il'ja Grigor'evic Erenburg",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "205 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 105644,
+    "Title": "Musik im Schatten der Politik : Erinnerungen",
+    "Author": "Geissmar, Berta",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "423 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 129585,
+    "Title": "Der Quasterl und andere Erzählungen",
+    "Author": "Graf, Oskar Maria",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "80 pages",
+    "Location": "New York"
+  },
+  {
+    "Id": 396779,
+    "Title": "Russland unterwegs : der russische Mensch zwischen Christentum und Kommunismus",
+    "Author": "Lieb, Fritz",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "474 pages",
+    "Location": "Bern"
+  },
+  {
+    "Id": 575781,
+    "Title": "Aus Kunst und Leben",
+    "Author": "Schumann, Robert",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "135 pages",
+    "Location": "Klosterberg-Basel"
+  },
+  {
+    "Id": 518339,
+    "Title": "Legenden",
+    "Author": "Zweig, Stefan",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "249 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 78151,
+    "Title": "Der Tag wird kommen : Roman",
+    "Author": "Feuchtwanger, Lion",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "413 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 176073,
+    "Title": "Das Buch der Lieder",
+    "Author": "Heine, Heinrich",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "53 pages",
+    "Location": "Amsterdam"
+  },
+  {
+    "Id": 284156,
+    "Title": "Das Tanzlegendchen",
+    "Author": "Keller, Gottfried",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "47 pages",
+    "Location": "Genf etc."
+  },
+  {
+    "Id": 284959,
+    "Title": "Simon Bolivar",
+    "Author": "Bruckner, Ferdinand",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "157 pages",
+    "Location": "New York"
+  },
+  {
+    "Id": 196927,
+    "Title": "Die Erzählungen",
+    "Author": "von Hofmannsthal, Hugo",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "461 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 591355,
+    "Title": "Das Buch der Werkzeichen",
+    "Author": "Reiner, Imre",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "122 pages",
+    "Location": "St. Gallen"
+  },
+  {
+    "Id": 451413,
+    "Title": "Regenbogen ueber dem Dnjepr : Roman",
+    "Author": "Wasilewska, Wanda",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "280 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 629195,
+    "Title": "Pablo Casals",
+    "Author": "von Tobel, Rudolf",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "140 pages",
+    "Location": "Erlenbach-Zürich"
+  },
+  {
+    "Id": 341801,
+    "Title": "Grüne Oliven und nackte Berge : Roman",
+    "Author": "Claudius, Eduard",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "346 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 681231,
+    "Title": "Nacktheit vor Gericht",
+    "Author": "Fankhauser, Ed",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "92 pages",
+    "Location": "Zielbrücke"
+  },
+  {
+    "Id": 327846,
+    "Title": "Preussen vor dem Richterstuhl der Geschichte : zwei Jahrhunderte preussischer Eroberungspolitik in Deutschland, Österreich und Europa",
+    "Author": "Kosch, Wilhelm",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "199 pages",
+    "Location": "Nymwegen etc."
+  },
+  {
+    "Id": 515569,
+    "Title": "Der Seelenbräu : Erzählung",
+    "Author": "Zuckmayer, Carl",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "152 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 722330,
+    "Title": "Männer unter sich : ein Sketch",
+    "Author": "Rolf",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "7 pages",
+    "Location": "Geen plaats van uitgave"
+  },
+  {
+    "Id": 235496,
+    "Title": "Schwarz auf weiss : die Entstehung der Schrift",
+    "Author": "Il'in, M.",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "171 pages",
+    "Location": "Zürich"
+  },
+  {
+    "Id": 548667,
+    "Title": "Kampf ohne Waffen : Dänemark unter der Besetzung",
+    "Author": "Secher, Knud",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "83 pages",
+    "Location": "Zürich etc."
+  },
+  {
+    "Id": 439006,
+    "Title": "Deutsche Hörer! : 55 Radiosendungen nach Deutschland",
+    "Author": "Mann, Thomas",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "131 pages",
+    "Location": "Stockholm"
+  },
+  {
+    "Id": 283216,
+    "Title": "Typographie und Kunst",
+    "Author": "Kehrli, J.Otto",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "84 pages",
+    "Location": "Bern"
+  },
+  {
+    "Id": 415076,
+    "Title": "Heldenplatz : Roman",
+    "Author": "Lothar, Ernst",
+    "Year": "1945",
+    "Language": "German",
+    "Pages": "406 pages",
+    "Location": "Cambridge, Mass."
   }
 ]

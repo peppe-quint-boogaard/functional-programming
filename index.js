@@ -18,13 +18,37 @@ responses = [];
 // indicate amount of pages to request
 const amountPages = 21;
 for (var i = 1; i < amountPages; i++) {
-  receiveResult(i);
+  // if (i < 5) {
+  //   year = 1940;
+  // } else if (i > 5 && i < 10) {
+  //   year = 1941;
+  // } else if (i > 10 && i < 15) {
+  //   year = 1942;
+  // } else if (i > 15) {
+  //   year = 1943;
+
+  receiveResult(i, '1940');
+}
+for (var i = 1; i < amountPages; i++) {
+  receiveResult(i, '1941')
+}
+for (var i = 1; i < amountPages; i++) {
+  receiveResult(i, '1942')
+}
+for (var i = 1; i < amountPages; i++) {
+  receiveResult(i, '1943')
+}
+for (var i = 1; i < amountPages; i++) {
+  receiveResult(i, '1944')
+}
+for (var i = 1; i < amountPages; i++) {
+  receiveResult(i, '1945')
 }
 
-function receiveResult(pageNumber) { //with some help of Joost
+function receiveResult(pageNumber, year) { //with some help of Joost
   responses.push(
     client.get('search', {
-      q: 'language:ger',
+      q: 'language:ger year:' + year,
       sort: 'title',
       page: pageNumber,
       facet: 'type(book)',
@@ -35,9 +59,9 @@ function receiveResult(pageNumber) { //with some help of Joost
         let bookRes = {
           Id: parseInt(book.id.nativeid),
           Title : book.titles.title.$t,
-          Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? 'Author unknown' : book.authors['main-author'].$t,
+          Author : (typeof book.authors === "undefined" || typeof book.authors['main-author'] === "undefined") ? "Unknown" : book.authors['main-author'].$t,
           Year : (typeof book.publication.year === "undefined") ? "Unknown" : book.publication.year.$t,
-          Language : (typeof book.languages === "undefined") ? "Unknown" : book.languages.language.$t,
+          Language : (typeof book.languages === "undefined" || typeof book.languages.language === "undefined") ? "Unknown" : book.languages.language.$t,
           Pages : (typeof book.description === "undefined") ? "Unknown" : book.description['physical-description'].$t,
           Location : (typeof book.publication.publishers.publisher.place === "undefined") ? "Unknown" : book.publication.publishers.publisher.place
         }
@@ -88,7 +112,7 @@ function removeDuplicates(originalArray, prop) {
 
 // with some help of Joost
 Promise.all(responses).then(function(totalRes) {
-  var uniqueResults = removeDuplicates(resList, "Id");
+  let uniqueResults = removeDuplicates(resList, "Id");
 
   // sort results on the location of the publishers
   uniqueResults.sort((a, b) => (a.Year < b.Year ? -1 : a.Year > b.Year ? 1 : 0));
