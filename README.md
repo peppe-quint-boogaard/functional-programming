@@ -1,6 +1,6 @@
 # Openbare Bibliotheek Amsterdam API
 
-## Table Of Contents
+## Inhoudsopgave
 1. **Onderzoek**
   * Onderzoeksvragen
   * Hoofdvraag
