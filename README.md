@@ -1,10 +1,10 @@
 # Openbare Bibliotheek Amsterdam API
 
 ## Inhoudsopgave
-1. **[Onderzoek](#onderzoek)**
-2. **[Hypothese](#hypothese)**
-3. **[Code](#code)**
-4. **[Proces](#resultaat)**
+1. **[Onderzoek](#1--onderzoek)**
+2. **[Hypothese](#2--hypothese)**
+3. **[Code](#3--code)**
+4. **[Proces](#4--resultaat)**
 
 ___
 
