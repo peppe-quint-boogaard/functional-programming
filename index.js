@@ -16,7 +16,7 @@ const resList = [];
 responses = [];
 
 // indicate amount of pages to request
-const amountPages = 21;
+const amountPages = 11;
 for (var i = 1; i < amountPages; i++) {
   // if (i < 5) {
   //   year = 1940;

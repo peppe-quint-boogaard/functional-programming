@@ -99,4 +99,4 @@ Voor de deelvragen over de verschillende jaartalen rondom de oorlog verander ik 
 
 ### 4 | Resultaat
 
-De data die ik krijg van de API heb ik nog niet werkend gekregen in D3. Ik moet nog meer onderzoek doen naar het ophalen van meer pagina's en het ophalen van data van meerdere jaren.
+De data die ik krijg van de API heb ik nog niet werkend gekregen in D3. Ik moet nog meer onderzoek doen naar het ophalen van meer pagina's en het ophalen van data van meerdere jaren. Daarnaast klopt de data nog niet wanneer ik door de verschillende jaren heen loop. Hierdoor is mijn data niet compleet. 
