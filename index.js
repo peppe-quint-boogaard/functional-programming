@@ -25,9 +25,15 @@ client
   })
   .catch(err => console.log(err));
 
-function getBookObject(data) {
-  createObject = {
-    title: data.titles.title.$t
-  };
+function getBookObject(item) {
+  const titleOfBook = (createObject = {
+    title: trimTitle(item),
+    year: item.publication.year.$t
+  });
   return createObject;
 }
+
+// clean up title of books
+const trimTitle = data => {
+  return data.titles.title.$t.split(/[:,/]/)[0].trim();
+};
