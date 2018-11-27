@@ -22,7 +22,7 @@ client
   .then(items => {
     const listOfResults = items.map(books => getBookObject(books));
     fs.writeFileSync(
-      "data-oba.json",
+      "../data/data-oba.json",
       JSON.stringify(listOfResults, null, 1),
       "utf8"
     );
