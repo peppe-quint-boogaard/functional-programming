@@ -21,19 +21,49 @@ client
   })
   .then(items => {
     const listOfResults = items.map(books => getBookObject(books));
-    console.log(JSON.stringify(listOfResults, null, 1));
+    fs.writeFileSync(
+      "data-oba.json",
+      JSON.stringify(listOfResults, null, 1),
+      "utf8"
+    );
   })
   .catch(err => console.log(err));
 
-function getBookObject(item) {
-  const titleOfBook = (createObject = {
+// create object of results
+const getBookObject = item => {
+  const bookObject = (createObject = {
     title: trimTitle(item),
-    year: item.publication.year.$t
+    author: trimAuthor(item),
+    year: item.publication.year.$t > 2018 ? false : item.publication.year.$t,
+    place: trimLocation(item)
   });
-  return createObject;
-}
+  return bookObject;
+};
 
-// clean up title of books
+// clean up string title of books
 const trimTitle = data => {
-  return data.titles.title.$t.split(/[:,/]/)[0].trim();
+  const getTitle =
+    typeof data.titles["short-title"].$t === "undefined"
+      ? "Unknown"
+      : data.titles["short-title"].$t;
+  return getTitle.split(/[:,/]/)[0].trim();
+};
+
+// clean up string location of publication
+const trimLocation = data => {
+  const getLocation =
+    typeof data.publication.publishers.publisher.place === "undefined"
+      ? "Unknown"
+      : data.publication.publishers.publisher.place;
+  return getLocation.replace(/[\[\]]/g, "");
+};
+
+// clean up string of author
+const trimAuthor = data => {
+  const getAuthor =
+    typeof data.authors === "undefined" ||
+    typeof data.authors["main-author"] === "undefined"
+      ? "Unknown"
+      : data.authors["main-author"].$t;
+  return getAuthor;
 };
