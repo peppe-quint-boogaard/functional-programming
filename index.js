@@ -13,16 +13,16 @@ const client = new OBAWrapper({
 client
   .get("search", {
     q: "duits",
-    sort: "year",
+    sort: "relevance",
     refine: true,
     facet: ["type(book)", "language(ger)"],
-    count: 10,
+    count: 19434,
     log: true
   })
   .then(items => {
     const listOfResults = items.map(books => getBookObject(books));
     fs.writeFileSync(
-      "../data/data-oba.json",
+      "data/data-oba.json",
       JSON.stringify(listOfResults, null, 1),
       "utf8"
     );
@@ -65,5 +65,5 @@ const trimAuthor = data => {
     typeof data.authors["main-author"] === "undefined"
       ? "Unknown"
       : data.authors["main-author"].$t;
-  return getAuthor;
+  return getAuthor.split(/[/]/)[0].trim();
 };
