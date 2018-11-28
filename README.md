@@ -99,10 +99,17 @@ const getBookObject = data => {
 ```
 
 > Dit is het resultaat wanneer de code goed wordt uitgevoerd
+<<<<<<< HEAD
 >
 > <details><summary>console.table(data)</summary>
 > ![Resultaten](assets/results.jpg)
 > </details>
+=======
+
+<details><summary>console.table(data)</summary>
+![Resultaten data](assets/results.jpg)
+</details>
+>>>>>>> a536a00be29250310676d8024eb474da82b0792e
 
 ```javascript
 // clean up string title of books
