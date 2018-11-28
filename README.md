@@ -98,6 +98,12 @@ const getBookObject = data => {
 };
 ```
 
+> Dit is het resultaat wanneer de code goed wordt uitgevoerd
+
+<details><summary>console.table(data)</summary>
+![Data](assets/results.jpg)
+</details>
+
 ```javascript
 // clean up string title of books
 const cleanTitle = data => {
