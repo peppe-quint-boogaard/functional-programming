@@ -115542,7 +115542,7 @@ const svg = d3
 
 const barChart = svg
   .append("g")
-  .attr("transform", `translate(${margin - 30}, ${margin})`);
+  .attr("transform", `translate(${margin + 20}, ${margin})`);
 
 const yScale = d3
   .scaleLinear()
@@ -115567,9 +115567,26 @@ barChart
   .data(obaData)
   .enter()
   .append("rect")
+  .attr("class", "bar")
   .attr("x", data => xScale(data.key))
   .attr("y", data => yScale(data.value))
+  .attr("ry", 5)
   .attr("height", data => height - yScale(data.value))
   .attr("width", xScale.bandwidth());
+
+svg
+  .append("text")
+  .attr("x", -(height / 2) - margin)
+  .attr("y", margin / 2)
+  .attr("transform", "rotate(-90)")
+  .attr("text-anchor", "middle")
+  .text("Aantal boeken");
+
+svg
+  .append("text")
+  .attr("x", width / 2 + margin)
+  .attr("y", margin * 10 - 10)
+  .attr("text-anchor", "middle")
+  .text("Jaren");
 
 },{"../../data/data-oba.json":1,"d3":33}]},{},[34]);
