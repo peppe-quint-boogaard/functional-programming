@@ -2,9 +2,11 @@
 
 For this assignment I used the OBA API to show all the German books that are available in the public library of Amsterdam. With the API I retrieved data from the library. To answer my research case I created a data visualisation of the collected data. The rest of the README is written in Dutch to clarify my research case as good as possible.
 
+![Screenshot](assets/screenshot.jpg)
+
 ## Inhoudsopgave
 
-- [Onderzoeksvragen](#onderzoeksvragen-)
+- [Onderzoeksvragen](#onderzoeksvragen)
 - [Hypothese](#hypothese)
   - [Verwachting](#verwachting)
   - [Schets](#schets)
