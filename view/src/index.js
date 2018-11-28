@@ -5,16 +5,17 @@ const obaData = d3
   .nest()
   .key(d => d.year)
   .rollup(d => d.length)
-  .entries(data);
+  .entries(data)
+  .filter(y => y.key > 1909 && y.key < 1951);
 
 const margin = 60;
 const height = 600 - 2 * margin;
-const width = 1080 - 2 * margin;
+const width = 1240 - 2 * margin;
 
 const svg = d3
   .select("body")
   .append("svg")
-  .attr("width", 1080)
+  .attr("width", 1240)
   .attr("height", 600);
 
 const barChart = svg

@@ -12,11 +12,11 @@ const client = new OBAWrapper({
 
 client
   .get("search", {
-    q: "duits",
-    sort: "relevance",
+    q: "buch",
+    sort: "year",
     refine: true,
     facet: ["type(book)", "language(ger)"],
-    count: 19434,
+    count: 19429,
     log: true
   })
   .then(items => {
@@ -30,40 +30,41 @@ client
   .catch(err => console.log(err));
 
 // create object of results
-const getBookObject = item => {
+const getBookObject = data => {
   const bookObject = (createObject = {
-    title: trimTitle(item),
-    author: trimAuthor(item),
-    year: item.publication.year.$t > 2018 ? false : item.publication.year.$t,
-    place: trimLocation(item)
+    title: cleanTitle(data),
+    author: cleanAuthor(data),
+    year: cleanYear(data)
   });
   return bookObject;
 };
 
 // clean up string title of books
-const trimTitle = data => {
+const cleanTitle = data => {
   const getTitle =
-    typeof data.titles["short-title"].$t === "undefined"
+    typeof data.titles.title.$t === "undefined"
       ? "Unknown"
-      : data.titles["short-title"].$t;
+      : data.titles.title.$t;
   return getTitle.split(/[:,/]/)[0].trim();
 };
 
-// clean up string location of publication
-const trimLocation = data => {
-  const getLocation =
-    typeof data.publication.publishers.publisher.place === "undefined"
-      ? "Unknown"
-      : data.publication.publishers.publisher.place;
-  return getLocation.replace(/[\[\]]/g, "");
-};
-
 // clean up string of author
-const trimAuthor = data => {
+const cleanAuthor = data => {
   const getAuthor =
     typeof data.authors === "undefined" ||
     typeof data.authors["main-author"] === "undefined"
       ? "Unknown"
       : data.authors["main-author"].$t;
   return getAuthor.split(/[/]/)[0].trim();
+};
+
+// clean up unknown years
+const cleanYear = data => {
+  const getYear =
+    typeof data.publication === "undefined" ||
+    typeof data.publication.year === "undefined" ||
+    typeof data.publication.year.$t === "undefined"
+      ? "Unknown"
+      : data.publication.year.$t;
+  return getYear;
 };
