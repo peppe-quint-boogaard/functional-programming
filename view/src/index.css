@@ -24,3 +24,7 @@ span {
   font-weight: 800;
   letter-spacing: 1px;
 }
+
+svg {
+  margin-top: 1rem;
+}
