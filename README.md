@@ -99,10 +99,10 @@ const getBookObject = data => {
 ```
 
 > Dit is het resultaat wanneer de code goed wordt uitgevoerd
->
-> <details><summary>console.table(data)</summary>
-> ![Resultaten data](assets/results.jpg)
-> </details>
+
+<details><summary>console.table(data)</summary>
+![Resultaten data](assets/results.jpg)
+</details>
 
 ```javascript
 // clean up string title of books
@@ -166,6 +166,8 @@ Naar aanleiding van de vorige iteratie heb ik er voor gekozen mijn hypothese aan
 ## Conclusie
 
 Concluderen, er is een duidelijk verschil te zien in het aantal Duitse boeken tijdens de wereldoorlogen. Er zijn flinke dalen te zien. Echter wil het niet zeggen dat er in die tijd ook minder boeken zijn gepubliceerd. Het gaat hier om de aantallen die terug te vinden zijn in de bibliotheek in Amsterdam.
+
+Daarnaast had ik, als ik terug kijk op mijn [schets](#schets) een andere trend verwacht.
 
 ## Bronnen
 
