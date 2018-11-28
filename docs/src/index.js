@@ -40,10 +40,13 @@ barChart
   .attr("transform", `translate(0, ${height})`)
   .call(d3.axisBottom(xScale));
 
-barChart
+const rectBars = barChart
   .selectAll()
   .data(obaData)
   .enter()
+  .append("g");
+
+rectBars
   .append("rect")
   .attr("class", "bar")
   .attr("x", data => xScale(data.key))
@@ -51,6 +54,21 @@ barChart
   .attr("ry", 5)
   .attr("height", data => height - yScale(data.value))
   .attr("width", xScale.bandwidth());
+
+rectBars.on("mouseenter", function(value, i) {
+  d3.select(this)
+    .append("text")
+    .attr("x", v => xScale(v.key) + 10)
+    .attr("y", v => yScale(v.value) - 10)
+    .attr("text-anchor", "middle")
+    .text(v => `${v.value}`);
+});
+
+rectBars.on("mouseleave", function() {
+  d3.select(this)
+    .select("text")
+    .remove();
+});
 
 svg
   .append("text")
